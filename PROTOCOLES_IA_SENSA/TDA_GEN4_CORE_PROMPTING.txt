@@ -1,0 +1,5 @@
+#TDA_GEN4_CORE_PROMPTING
+Utilisation exclusive de prompts cinématographiques émotionnels.
+Instruction : always show BEGINNING of action, never aftermath.
+Applique : TDA_RUNWAY_TRIGGER_PRINCIPLE_BEGIN_ACTION_ONLY
+Permet l’alignement visuel sur le cœur de l’intention.

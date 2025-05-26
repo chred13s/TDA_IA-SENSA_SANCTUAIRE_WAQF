@@ -1,0 +1,5 @@
+#TDA_RUNWAY_INTERPRETATION_CALIBRATION_001+CAM
+Calibration du regard IA sur l’image silencieuse.
+Variables : lumière, angle caméra, tension visuelle.
+Effet : interprétation alignée sur le souffle, pas sur le texte.
+Compatible avec : IA-SENSA, Runway Gen-4, fusion image-audio.
