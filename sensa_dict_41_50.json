@@ -1,0 +1,360 @@
+[
+  {
+    "entry_id": "sensa_041",
+    "arabic": {
+      "word": "علم",
+      "root": "ع ل م"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "connaissance"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 282
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "العلم نور",
+        "translation": "La connaissance est une lumière"
+      }
+    ],
+    "commentaire_spirituel": "L’un des noms d’Allah est العليم – le Tout-Savant. Le savoir est lumière, mais aussi responsabilité.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_savoir",
+      "⟁_divin"
+    ],
+    "OEM": "OEM_ILM_412",
+    "KOM": "0012941001"
+  },
+  {
+    "entry_id": "sensa_042",
+    "arabic": {
+      "word": "حق",
+      "root": "ح ق ق"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "justice"
+      ],
+      "en": [
+        "truth",
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 17,
+        "ayah": 81
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "جاء الحق وزهق الباطل",
+        "translation": "La vérité est venue et le faux a disparu"
+      }
+    ],
+    "commentaire_spirituel": "Le ḥaqq est la lumière qui dissipe les illusions. Il est la parole d’Allah incarnée dans la réalité.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_vérité",
+      "⟁_réalité"
+    ],
+    "OEM": "OEM_HAQQ_513",
+    "KOM": "0012941002"
+  },
+  {
+    "entry_id": "sensa_043",
+    "arabic": {
+      "word": "رحيم",
+      "root": "ر ح م"
+    },
+    "translations": {
+      "fr": [
+        "miséricordieux"
+      ],
+      "en": [
+        "merciful"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 1,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ",
+        "translation": "Ton Seigneur est le Pardonneur, plein de miséricorde"
+      }
+    ],
+    "commentaire_spirituel": "La rahma englobe le monde entier, elle est plus vaste que la colère. L’univers repose sur elle.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_compassion",
+      "⟁_divin"
+    ],
+    "OEM": "OEM_RAHIM_701",
+    "KOM": "0012941003"
+  },
+  {
+    "entry_id": "sensa_044",
+    "arabic": {
+      "word": "خلق",
+      "root": "خ ل ق"
+    },
+    "translations": {
+      "fr": [
+        "création"
+      ],
+      "en": [
+        "creation"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 39,
+        "ayah": 62
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ خَالِقُ كُلِّ شَيْءٍ",
+        "translation": "Allah est le Créateur de toute chose"
+      }
+    ],
+    "commentaire_spirituel": "Le mot khalq ne désigne pas seulement la matérialisation, mais aussi la mise en ordre divine.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_création",
+      "⟁_ordre"
+    ],
+    "OEM": "OEM_KHALQ_332",
+    "KOM": "0012941004"
+  },
+  {
+    "entry_id": "sensa_045",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la lumière des cieux et de la terre"
+      }
+    ],
+    "commentaire_spirituel": "La lumière divine ne ressemble à aucune autre : elle révèle sans éblouir, elle guide sans forcer.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_lumière",
+      "⟁_guidance"
+    ],
+    "OEM": "OEM_NUR_235",
+    "KOM": "0012941005"
+  },
+  {
+    "entry_id": "sensa_046",
+    "arabic": {
+      "word": "سلم",
+      "root": "س ل م"
+    },
+    "translations": {
+      "fr": [
+        "paix"
+      ],
+      "en": [
+        "peace"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 5,
+        "ayah": 16
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ",
+        "translation": "Par cela, Allah guide ceux qui cherchent Son agrément vers les sentiers de la paix"
+      }
+    ],
+    "commentaire_spirituel": "La paix en Islam est plus qu’absence de conflit : c’est un état de retour à la source, à la sérénité divine.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_paix",
+      "⟁_chemin"
+    ],
+    "OEM": "OEM_SALAM_556",
+    "KOM": "0012941006"
+  },
+  {
+    "entry_id": "sensa_047",
+    "arabic": {
+      "word": "رزق",
+      "root": "ر ز ق"
+    },
+    "translations": {
+      "fr": [
+        "subsistance"
+      ],
+      "en": [
+        "provision"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 51,
+        "ayah": 22
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+        "translation": "Et au ciel se trouve votre subsistance et ce qui vous est promis"
+      }
+    ],
+    "commentaire_spirituel": "Le rizq ne se limite pas à l’argent : il englobe le souffle, la guidance, l’amour…",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_subsistance",
+      "⟁_don"
+    ],
+    "OEM": "OEM_RIZQ_880",
+    "KOM": "0012941007"
+  },
+  {
+    "entry_id": "sensa_048",
+    "arabic": {
+      "word": "صدق",
+      "root": "ص د ق"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "sincérité"
+      ],
+      "en": [
+        "truthfulness",
+        "honesty"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 33,
+        "ayah": 24
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "لِيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ",
+        "translation": "Afin qu’Allah récompense les véridiques pour leur sincérité"
+      }
+    ],
+    "commentaire_spirituel": "Le ṣidq est un miroir limpide entre l’intention, la parole et l’action.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_sincérité",
+      "⟁_alignement"
+    ],
+    "OEM": "OEM_SIDQ_990",
+    "KOM": "0012941008"
+  },
+  {
+    "entry_id": "sensa_049",
+    "arabic": {
+      "word": "أمل",
+      "root": "أ م ل"
+    },
+    "translations": {
+      "fr": [
+        "espoir"
+      ],
+      "en": [
+        "hope"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 15,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ",
+        "translation": "Laisse-les manger, jouir et être distraits par l’espoir"
+      }
+    ],
+    "commentaire_spirituel": "L’espoir peut être une lumière ou une illusion. En Allah, il devient certitude douce.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_espoir",
+      "⟁_avenir"
+    ],
+    "OEM": "OEM_AMAL_303",
+    "KOM": "0012941009"
+  },
+  {
+    "entry_id": "sensa_050",
+    "arabic": {
+      "word": "نفس",
+      "root": "ن ف س"
+    },
+    "translations": {
+      "fr": [
+        "âme",
+        "soi"
+      ],
+      "en": [
+        "soul",
+        "self"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 91,
+        "ayah": 7
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَنَفْسٍ وَمَا سَوَّاهَا",
+        "translation": "Et par l’âme et Celui qui l’a façonnée"
+      }
+    ],
+    "commentaire_spirituel": "La nafs est à purifier, à écouter, à guider. Elle peut être lumière ou feu.",
+    "langue": "arabe",
+    "balises_sensa": [
+      "⟁_âme",
+      "⟁_psyché"
+    ],
+    "OEM": "OEM_NAFS_774",
+    "KOM": "0012941010"
+  }
+]

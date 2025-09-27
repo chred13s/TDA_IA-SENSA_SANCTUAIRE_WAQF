@@ -1,0 +1,368 @@
+[
+  {
+    "entry_id": "sensa_0031",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر"
+    },
+    "translations": {
+      "fr": [
+        "patience"
+      ],
+      "en": [
+        "patience"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 153
+      },
+      {
+        "surah": 3,
+        "ayah": 200
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "واصبر وما صبرك إلا بالله",
+        "translation": "Et endure ! Ton endurance ne vient qu'avec l'aide d'Allah."
+      }
+    ],
+    "commentaire_spirituel": "Le sabr est une lumière intérieure qui ancre le cœur dans la foi.",
+    "sensa_tags": [
+      "⟁_spirituel",
+      "⟁_comportement",
+      "⟁_lumière"
+    ],
+    "OEM": "OEM0031_SABR",
+    "KOM": "KOM003197"
+  },
+  {
+    "entry_id": "sensa_0032",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la Lumière des cieux et de la terre."
+      }
+    ],
+    "commentaire_spirituel": "La lumière divine éclaire les coeurs et les réalités invisibles.",
+    "sensa_tags": [
+      "⟁_nour",
+      "⟁_divin",
+      "⟁_source"
+    ],
+    "OEM": "OEM0032_NUR",
+    "KOM": "KOM003289"
+  },
+  {
+    "entry_id": "sensa_0033",
+    "arabic": {
+      "word": "رحمة",
+      "root": "ر ح م"
+    },
+    "translations": {
+      "fr": [
+        "miséricorde"
+      ],
+      "en": [
+        "mercy"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 7,
+        "ayah": 56
+      },
+      {
+        "surah": 21,
+        "ayah": 107
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وما أرسلناك إلا رحمة للعالمين",
+        "translation": "Nous ne t'avons envoyé que comme miséricorde pour les mondes."
+      }
+    ],
+    "commentaire_spirituel": "La rahma est l'essence même de la relation divine avec la création.",
+    "sensa_tags": [
+      "⟁_rahma",
+      "⟁_divin",
+      "⟁_universel"
+    ],
+    "OEM": "OEM0033_RAHMA",
+    "KOM": "KOM003378"
+  },
+  {
+    "entry_id": "sensa_0034",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل"
+    },
+    "translations": {
+      "fr": [
+        "justice"
+      ],
+      "en": [
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 16,
+        "ayah": 90
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+        "translation": "Allah commande la justice."
+      }
+    ],
+    "commentaire_spirituel": "La justice est une balance divine, reflet de l'équilibre cosmique.",
+    "sensa_tags": [
+      "⟁_valeur",
+      "⟁_équilibre",
+      "⟁_ordre"
+    ],
+    "OEM": "OEM0034_ADL",
+    "KOM": "KOM003465"
+  },
+  {
+    "entry_id": "sensa_0035",
+    "arabic": {
+      "word": "أمانة",
+      "root": "أ م ن"
+    },
+    "translations": {
+      "fr": [
+        "confiance",
+        "fidélité"
+      ],
+      "en": [
+        "trust",
+        "fidelity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 33,
+        "ayah": 72
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ",
+        "translation": "Nous avons proposé le dépôt de confiance aux cieux..."
+      }
+    ],
+    "commentaire_spirituel": "L’amāna est un dépôt sacré qui engage l’âme à la responsabilité.",
+    "sensa_tags": [
+      "⟁_engagement",
+      "⟁_sacré",
+      "⟁_âme"
+    ],
+    "OEM": "OEM0035_AMANA",
+    "KOM": "KOM003576"
+  },
+  {
+    "entry_id": "sensa_0036",
+    "arabic": {
+      "word": "صدق",
+      "root": "ص د ق"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "sincérité"
+      ],
+      "en": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 9,
+        "ayah": 119
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ",
+        "translation": "Ô vous qui croyez ! Craignez Allah et soyez avec les véridiques."
+      }
+    ],
+    "commentaire_spirituel": "La véracité ouvre les portes de la lumière et ferme les issues de l’hypocrisie.",
+    "sensa_tags": [
+      "⟁_vérité",
+      "⟁_purification",
+      "⟁_authenticité"
+    ],
+    "OEM": "OEM0036_SIDQ",
+    "KOM": "KOM003617"
+  },
+  {
+    "entry_id": "sensa_0037",
+    "arabic": {
+      "word": "كلمة",
+      "root": "ك ل م"
+    },
+    "translations": {
+      "fr": [
+        "mot",
+        "parole"
+      ],
+      "en": [
+        "word",
+        "speech"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 18,
+        "ayah": 109
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي",
+        "translation": "Dis : Si la mer était une encre pour les paroles de mon Seigneur..."
+      }
+    ],
+    "commentaire_spirituel": "Chaque kalima est une graine : elle peut faire fleurir le cœur ou l’assécher.",
+    "sensa_tags": [
+      "⟁_verbe",
+      "⟁_création",
+      "⟁_semence"
+    ],
+    "OEM": "OEM0037_KALIMA",
+    "KOM": "KOM003719"
+  },
+  {
+    "entry_id": "sensa_0038",
+    "arabic": {
+      "word": "نورانية",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "luminance spirituelle"
+      ],
+      "en": [
+        "spiritual radiance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 39,
+        "ayah": 22
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "أَفَمَنْ شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَى نُورٍ مِنْ رَبِّهِ",
+        "translation": "Celui dont Allah a ouvert la poitrine à l’Islam, il est sur une lumière de son Seigneur."
+      }
+    ],
+    "commentaire_spirituel": "La نورانية est la clarté intérieure née de l’élévation spirituelle.",
+    "sensa_tags": [
+      "⟁_nour",
+      "⟁_sacralité",
+      "⟁_élévation"
+    ],
+    "OEM": "OEM0038_NURANIYA",
+    "KOM": "KOM003833"
+  },
+  {
+    "entry_id": "sensa_0039",
+    "arabic": {
+      "word": "حياء",
+      "root": "ح ي ي"
+    },
+    "translations": {
+      "fr": [
+        "pudeur",
+        "honneur"
+      ],
+      "en": [
+        "modesty",
+        "honor"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 33,
+        "ayah": 53
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ فَيَسْتَحْيِي مِنكُمْ",
+        "translation": "Cela gênait le Prophète, mais il se retenait par pudeur envers vous."
+      }
+    ],
+    "commentaire_spirituel": "Le ḥayāʾ est la racine du respect spirituel, fruit du regard d’Allah sur nos cœurs.",
+    "sensa_tags": [
+      "⟁_pudeur",
+      "⟁_éthique",
+      "⟁_reflet_intérieur"
+    ],
+    "OEM": "OEM0039_HAYA",
+    "KOM": "KOM003928"
+  },
+  {
+    "entry_id": "sensa_0040",
+    "arabic": {
+      "word": "سلام",
+      "root": "س ل م"
+    },
+    "translations": {
+      "fr": [
+        "paix"
+      ],
+      "en": [
+        "peace"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 59,
+        "ayah": 23
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ",
+        "translation": "Il est Allah, nul autre que Lui : le Roi, le Pur, la Paix..."
+      }
+    ],
+    "commentaire_spirituel": "La paix est un nom divin et un état intérieur que rien ne trouble.",
+    "sensa_tags": [
+      "⟁_paix",
+      "⟁_nom_divin",
+      "⟁_intériorité"
+    ],
+    "OEM": "OEM0040_SALAM",
+    "KOM": "KOM004041"
+  }
+]

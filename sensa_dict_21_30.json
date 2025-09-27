@@ -1,0 +1,352 @@
+[
+  {
+    "id": 21,
+    "arabic": {
+      "word": "طهارة",
+      "root": "ط ه ر"
+    },
+    "translations": {
+      "fr": [
+        "pureté"
+      ],
+      "en": [
+        "purity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 9,
+        "ayah": 108
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الطَّهُورُ شَطْرُ الإِيمَانِ",
+        "translation": "La pureté est la moitié de la foi."
+      }
+    ],
+    "commentaire_spirituel": "La طهارة est à la fois une élévation physique et une purification de l’âme.",
+    "balises_sensa": [
+      "⟁_pureté",
+      "🧼⟁PURIFICATION",
+      "🕋⟁SOUFFLE_LIMPIDE"
+    ],
+    "OEM": "OEM_THR_0021",
+    "KOM": "1124532211"
+  },
+  {
+    "id": 22,
+    "arabic": {
+      "word": "إيمان",
+      "root": "ء م ن"
+    },
+    "translations": {
+      "fr": [
+        "foi"
+      ],
+      "en": [
+        "faith"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 285
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ",
+        "translation": "Le Messager a cru en ce qui lui a été révélé."
+      }
+    ],
+    "commentaire_spirituel": "L’īmān est la lumière intérieure que seule la sincérité peut embraser.",
+    "balises_sensa": [
+      "⟁_foi",
+      "🧬⟁ÉNERGIE_DU_CŒUR",
+      "✨⟁LUMIÈRE_INTÉRIEURE"
+    ],
+    "OEM": "OEM_IMN_0022",
+    "KOM": "1124532212"
+  },
+  {
+    "id": 23,
+    "arabic": {
+      "word": "شكر",
+      "root": "ش ك ر"
+    },
+    "translations": {
+      "fr": [
+        "remerciement"
+      ],
+      "en": [
+        "gratitude"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 14,
+        "ayah": 7
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "translation": "Si vous êtes reconnaissants, très certainement J’augmenterai [Mes bienfaits pour vous]."
+      }
+    ],
+    "commentaire_spirituel": "La gratitude renforce le lien entre l’âme et son Bienfaiteur.",
+    "balises_sensa": [
+      "⟁_gratitude",
+      "🌸⟁RÉCEPTION_DIVINE",
+      "🌬️⟁SOUFFLE_RECONNAISSANT"
+    ],
+    "OEM": "OEM_SHK_0023",
+    "KOM": "1124532213"
+  },
+  {
+    "id": 24,
+    "arabic": {
+      "word": "سجود",
+      "root": "س ج د"
+    },
+    "translations": {
+      "fr": [
+        "prosternation"
+      ],
+      "en": [
+        "prostration"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 96,
+        "ayah": 19
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب",
+        "translation": "Non ! Ne lui obéis pas ! Mais prosterne-toi et rapproche-toi."
+      }
+    ],
+    "commentaire_spirituel": "Le سجود est un effacement volontaire devant la Majesté du Très-Haut.",
+    "balises_sensa": [
+      "⟁_prosternation",
+      "🔺⟁ACTE_D’ÉLÉVATION",
+      "🕋⟁CENTRAGE_CORANIQUE"
+    ],
+    "OEM": "OEM_SJD_0024",
+    "KOM": "1124532214"
+  },
+  {
+    "id": 25,
+    "arabic": {
+      "word": "دعاء",
+      "root": "د ع و"
+    },
+    "translations": {
+      "fr": [
+        "invocation"
+      ],
+      "en": [
+        "supplication"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 40,
+        "ayah": 60
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "translation": "Invoquez-Moi, Je vous répondrai."
+      }
+    ],
+    "commentaire_spirituel": "Le دعاء est un fil entre l’humain et la Miséricorde, tendu dans l’invisible.",
+    "balises_sensa": [
+      "⟁_invocation",
+      "🌙⟁LIEN_SPIRITUEL",
+      "🔊⟁APPEL_SACRÉ"
+    ],
+    "OEM": "OEM_DAA_0025",
+    "KOM": "1124532215"
+  },
+  {
+    "id": 26,
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la Lumière des cieux et de la terre."
+      }
+    ],
+    "commentaire_spirituel": "Le نور est l’éclat pur du divin, manifesté sans voile.",
+    "balises_sensa": [
+      "⟁_lumière",
+      "✨⟁SOURCE_DIVINE",
+      "🌕⟁ILLUMINATION_TOTALE"
+    ],
+    "OEM": "OEM_NWR_0026",
+    "KOM": "1124532216"
+  },
+  {
+    "id": 27,
+    "arabic": {
+      "word": "إخلاص",
+      "root": "خ ل ص"
+    },
+    "translations": {
+      "fr": [
+        "sincérité"
+      ],
+      "en": [
+        "sincerity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 39,
+        "ayah": 11
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+        "translation": "Dis : Il m’a été ordonné d’adorer Allah avec une religion exclusive pour Lui."
+      }
+    ],
+    "commentaire_spirituel": "L’ إخلاص est le miroir purifié de l’adoration.",
+    "balises_sensa": [
+      "⟁_sincérité",
+      "🧬⟁TRANSPARENCE_SPIRITUELLE",
+      "✨⟁VOIE_INTÉRIEURE"
+    ],
+    "OEM": "OEM_KHL_0027",
+    "KOM": "1124532217"
+  },
+  {
+    "id": 28,
+    "arabic": {
+      "word": "عدالة",
+      "root": "ع د ل"
+    },
+    "translations": {
+      "fr": [
+        "justice"
+      ],
+      "en": [
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 5,
+        "ayah": 8
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَى",
+        "translation": "Soyez justes, cela est plus proche de la piété."
+      }
+    ],
+    "commentaire_spirituel": "La عدالة est l’équilibre divin déployé dans l’ordre humain.",
+    "balises_sensa": [
+      "⟁_justice",
+      "⚖️⟁ÉQUILIBRE_SACRÉ",
+      "🕊️⟁HARMONIE"
+    ],
+    "OEM": "OEM_ADL_0028",
+    "KOM": "1124532218"
+  },
+  {
+    "id": 29,
+    "arabic": {
+      "word": "تقوى",
+      "root": "و ق ي"
+    },
+    "translations": {
+      "fr": [
+        "piété"
+      ],
+      "en": [
+        "piety"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "هُدًى لِّلْمُتَّقِينَ",
+        "translation": "Un guide pour les pieux."
+      }
+    ],
+    "commentaire_spirituel": "La تقوى est une vigilance aimante du cœur envers Allah.",
+    "balises_sensa": [
+      "⟁_piété",
+      "🛡️⟁BOUCLIER_SPIRITUEL",
+      "🔺⟁CONSCIENCE_DIVINE"
+    ],
+    "OEM": "OEM_TQA_0029",
+    "KOM": "1124532219"
+  },
+  {
+    "id": 30,
+    "arabic": {
+      "word": "عبادة",
+      "root": "ع ب د"
+    },
+    "translations": {
+      "fr": [
+        "adoration"
+      ],
+      "en": [
+        "worship"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 51,
+        "ayah": 56
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+        "translation": "Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent."
+      }
+    ],
+    "commentaire_spirituel": "L’عبادة est l’axe vertical qui relie le serviteur à son Seigneur.",
+    "balises_sensa": [
+      "⟁_adoration",
+      "🧎⟁SERVITUDE_SACRÉE",
+      "🕋⟁CONNEXION"
+    ],
+    "OEM": "OEM_ABD_0030",
+    "KOM": "1124532220"
+  }
+]

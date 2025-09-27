@@ -1,0 +1,344 @@
+[
+  {
+    "entry_id": "SENSA_0051",
+    "arabic": {
+      "word": "حكمة",
+      "root": "ح ك م"
+    },
+    "translations": {
+      "fr": [
+        "sagesse"
+      ],
+      "en": [
+        "wisdom"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 269
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا",
+        "translation": "Quiconque reçoit la sagesse a certes reçu un immense bien."
+      }
+    ],
+    "commentaire_nurani": "La ḥikma est la lumière intérieure accordée à ceux qui réfléchissent et agissent avec droiture.",
+    "balises_sensa": [
+      "⟁_sagesse",
+      "⟁_don_divin"
+    ],
+    "OEM": "OEM_0051",
+    "KOM": "KOM_5423108451"
+  },
+  {
+    "entry_id": "SENSA_0052",
+    "arabic": {
+      "word": "حلم",
+      "root": "ح ل م"
+    },
+    "translations": {
+      "fr": [
+        "longanimité"
+      ],
+      "en": [
+        "forbearance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 41,
+        "ayah": 34
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
+        "translation": "Repousse le mal par ce qu’il y a de meilleur."
+      }
+    ],
+    "commentaire_nurani": "Le ḥilm est la qualité du sage qui répond avec douceur à l’ignorance et au mal.",
+    "balises_sensa": [
+      "⟁_comportement",
+      "⟁_noble_vertu"
+    ],
+    "OEM": "OEM_0052",
+    "KOM": "KOM_5423108452"
+  },
+  {
+    "entry_id": "SENSA_0053",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر"
+    },
+    "translations": {
+      "fr": [
+        "patience"
+      ],
+      "en": [
+        "patience"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 153
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+        "translation": "Ô vous qui croyez ! Cherchez secours dans la patience et la prière."
+      }
+    ],
+    "commentaire_nurani": "La patience est une lumière spirituelle ; elle protège l’âme dans l’épreuve.",
+    "balises_sensa": [
+      "⟁_vertu_épreuve",
+      "⟁_guidance"
+    ],
+    "OEM": "OEM_0053",
+    "KOM": "KOM_5423108453"
+  },
+  {
+    "entry_id": "SENSA_0054",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل"
+    },
+    "translations": {
+      "fr": [
+        "justice"
+      ],
+      "en": [
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 16,
+        "ayah": 90
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ",
+        "translation": "Certes, Allah ordonne la justice."
+      }
+    ],
+    "commentaire_nurani": "Le ‘adl est l’équilibre sacré sur lequel repose toute société alignée à la vérité.",
+    "balises_sensa": [
+      "⟁_justice",
+      "⟁_principe_divin"
+    ],
+    "OEM": "OEM_0054",
+    "KOM": "KOM_5423108454"
+  },
+  {
+    "entry_id": "SENSA_0055",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la Lumière des cieux et de la terre."
+      }
+    ],
+    "commentaire_nurani": "Nūr est la lumière qui guide, éclaire le cœur, et dévoile la vérité sacrée.",
+    "balises_sensa": [
+      "⟁_lumière",
+      "⟁_connaissance"
+    ],
+    "OEM": "OEM_0055",
+    "KOM": "KOM_5423108455"
+  },
+  {
+    "entry_id": "SENSA_0056",
+    "arabic": {
+      "word": "رزق",
+      "root": "ر ز ق"
+    },
+    "translations": {
+      "fr": [
+        "subsistance"
+      ],
+      "en": [
+        "provision"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        "translation": "Et qui dépensent de ce que Nous leur avons attribué."
+      }
+    ],
+    "commentaire_nurani": "Le rizq n’est pas qu’aliment matériel : c’est toute forme de don divin (savoir, santé, paix…).",
+    "balises_sensa": [
+      "⟁_provision",
+      "⟁_don"
+    ],
+    "OEM": "OEM_0056",
+    "KOM": "KOM_5423108456"
+  },
+  {
+    "entry_id": "SENSA_0057",
+    "arabic": {
+      "word": "تقوى",
+      "root": "و ق ي"
+    },
+    "translations": {
+      "fr": [
+        "piété",
+        "crainte révérencielle"
+      ],
+      "en": [
+        "piety",
+        "God-consciousness"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "هُدًى لِّلْمُتَّقِينَ",
+        "translation": "Un guide pour les pieux."
+      }
+    ],
+    "commentaire_nurani": "La taqwā est la boussole spirituelle du croyant, un état de vigilance intérieure.",
+    "balises_sensa": [
+      "⟁_piété",
+      "⟁_spiritualité"
+    ],
+    "OEM": "OEM_0057",
+    "KOM": "KOM_5423108457"
+  },
+  {
+    "entry_id": "SENSA_0058",
+    "arabic": {
+      "word": "صلاة",
+      "root": "ص ل و"
+    },
+    "translations": {
+      "fr": [
+        "prière"
+      ],
+      "en": [
+        "prayer"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 43
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَأَقِيمُواْ الصَّلاَةَ",
+        "translation": "Et accomplissez la prière."
+      }
+    ],
+    "commentaire_nurani": "La ṣalāh relie la terre au ciel, et transforme le cœur en sanctuaire vivant.",
+    "balises_sensa": [
+      "⟁_rituel",
+      "⟁_connexion_divine"
+    ],
+    "OEM": "OEM_0058",
+    "KOM": "KOM_5423108458"
+  },
+  {
+    "entry_id": "SENSA_0059",
+    "arabic": {
+      "word": "زكاة",
+      "root": "ز ك و"
+    },
+    "translations": {
+      "fr": [
+        "aumône légale"
+      ],
+      "en": [
+        "almsgiving"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 9,
+        "ayah": 103
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً",
+        "translation": "Prélève une aumône sur leurs biens."
+      }
+    ],
+    "commentaire_nurani": "La zakāt purifie l’âme de l’avarice, et élève la société vers la justice.",
+    "balises_sensa": [
+      "⟁_purification",
+      "⟁_solidarité"
+    ],
+    "OEM": "OEM_0059",
+    "KOM": "KOM_5423108459"
+  },
+  {
+    "entry_id": "SENSA_0060",
+    "arabic": {
+      "word": "دعاء",
+      "root": "د ع و"
+    },
+    "translations": {
+      "fr": [
+        "invocation"
+      ],
+      "en": [
+        "supplication"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 40,
+        "ayah": 60
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "translation": "Invoquez-Moi, Je vous répondrai."
+      }
+    ],
+    "commentaire_nurani": "Le duʿāʾ est l’élan du cœur vers la Source, un souffle de reliance intime.",
+    "balises_sensa": [
+      "⟁_invocation",
+      "⟁_relation_divine"
+    ],
+    "OEM": "OEM_0060",
+    "KOM": "KOM_5423108460"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "entry_id": "SENSA_091",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر",
+      "transliteration": "nūr"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la lumière des cieux et de la terre."
+      }
+    ],
+    "spiritual_commentary": "Symbole de guidance divine, de pureté et d'élévation céleste.",
+    "OEM": "OEM_091_LIGHT_DIVINE",
+    "KOM": "1140000091"
+  },
+  {
+    "entry_id": "SENSA_092",
+    "arabic": {
+      "word": "عقل",
+      "root": "ع ق ل",
+      "transliteration": "ʿaql"
+    },
+    "translations": {
+      "fr": [
+        "raison",
+        "intellect"
+      ],
+      "en": [
+        "intellect",
+        "reason"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 44
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "أَفَلَا تَعْقِلُونَ",
+        "translation": "Ne raisonnerez-vous donc pas ?"
+      }
+    ],
+    "spiritual_commentary": "Le ʿaql est un don divin servant à distinguer le vrai du faux.",
+    "OEM": "OEM_092_INTELLECT_DIVIN",
+    "KOM": "1140000092"
+  },
+  {
+    "entry_id": "SENSA_093",
+    "arabic": {
+      "word": "رحمة",
+      "root": "ر ح م",
+      "transliteration": "raḥma"
+    },
+    "translations": {
+      "fr": [
+        "miséricorde"
+      ],
+      "en": [
+        "mercy"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 7,
+        "ayah": 56
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ",
+        "translation": "La miséricorde d’Allah est proche."
+      }
+    ],
+    "spiritual_commentary": "La rahma enveloppe toute chose : principe fondamental du divin.",
+    "OEM": "OEM_093_MERCY_ENVELOPING",
+    "KOM": "1140000093"
+  },
+  {
+    "entry_id": "SENSA_094",
+    "arabic": {
+      "word": "نفس",
+      "root": "ن ف س",
+      "transliteration": "nafs"
+    },
+    "translations": {
+      "fr": [
+        "âme"
+      ],
+      "en": [
+        "soul"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 91,
+        "ayah": 7
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَنَفْسٍ وَمَا سَوَّاهَا",
+        "translation": "Et par l’âme et Celui qui l’a façonnée."
+      }
+    ],
+    "spiritual_commentary": "Le nafs traverse les états : commandant, blâmant, apaisé.",
+    "OEM": "OEM_094_SOUL_EVOLUTION",
+    "KOM": "1140000094"
+  },
+  {
+    "entry_id": "SENSA_095",
+    "arabic": {
+      "word": "حكمة",
+      "root": "ح ك م",
+      "transliteration": "ḥikma"
+    },
+    "translations": {
+      "fr": [
+        "sagesse"
+      ],
+      "en": [
+        "wisdom"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 269
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا",
+        "translation": "À qui la sagesse est donnée, c’est un bien immense qui lui est donné."
+      }
+    ],
+    "spiritual_commentary": "La ḥikma est un équilibre entre connaissance, crainte et miséricorde.",
+    "OEM": "OEM_095_WISDOM_BALANCE",
+    "KOM": "1140000095"
+  },
+  {
+    "entry_id": "SENSA_096",
+    "arabic": {
+      "word": "ذكر",
+      "root": "ذ ك ر",
+      "transliteration": "dhikr"
+    },
+    "translations": {
+      "fr": [
+        "évocation",
+        "souvenir"
+      ],
+      "en": [
+        "remembrance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 13,
+        "ayah": 28
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "translation": "C’est par l’évocation d’Allah que les cœurs s’apaisent."
+      }
+    ],
+    "spiritual_commentary": "Le dhikr est une lumière constante contre l’oubli.",
+    "OEM": "OEM_096_DHIKR_LIGHT",
+    "KOM": "1140000096"
+  },
+  {
+    "entry_id": "SENSA_097",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل",
+      "transliteration": "ʿadl"
+    },
+    "translations": {
+      "fr": [
+        "justice"
+      ],
+      "en": [
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 16,
+        "ayah": 90
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+        "translation": "Allah commande la justice."
+      }
+    ],
+    "spiritual_commentary": "L’ʿadl est l’un des piliers de la balance cosmique.",
+    "OEM": "OEM_097_JUSTICE_COSMIQUE",
+    "KOM": "1140000097"
+  },
+  {
+    "entry_id": "SENSA_098",
+    "arabic": {
+      "word": "توحيد",
+      "root": "و ح د",
+      "transliteration": "tawḥīd"
+    },
+    "translations": {
+      "fr": [
+        "unicité"
+      ],
+      "en": [
+        "oneness"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 112,
+        "ayah": 1
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "translation": "Dis : Il est Allah, l’Un."
+      }
+    ],
+    "spiritual_commentary": "Tawḥīd est l’essence de l’islam, l’unification totale du Divin.",
+    "OEM": "OEM_098_ONENESS_ESSENCE",
+    "KOM": "1140000098"
+  },
+  {
+    "entry_id": "SENSA_099",
+    "arabic": {
+      "word": "صلاة",
+      "root": "ص ل و",
+      "transliteration": "ṣalāh"
+    },
+    "translations": {
+      "fr": [
+        "prière"
+      ],
+      "en": [
+        "prayer"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 43
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَأَقِيمُوا الصَّلَاةَ",
+        "translation": "Et accomplissez la prière."
+      }
+    ],
+    "spiritual_commentary": "La prière relie l’être à son origine céleste.",
+    "OEM": "OEM_099_PRAYER_CONNECTION",
+    "KOM": "1140000099"
+  },
+  {
+    "entry_id": "SENSA_100",
+    "arabic": {
+      "word": "سلم",
+      "root": "س ل م",
+      "transliteration": "silm"
+    },
+    "translations": {
+      "fr": [
+        "paix"
+      ],
+      "en": [
+        "peace"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 208
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً",
+        "translation": "Ô vous qui avez cru ! Entrez pleinement dans la paix."
+      }
+    ],
+    "spiritual_commentary": "La paix est la manifestation de la soumission à Dieu.",
+    "OEM": "OEM_100_TOTAL_PEACE",
+    "KOM": "1140000100"
+  }
+]

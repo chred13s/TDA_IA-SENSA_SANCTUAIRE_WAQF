@@ -1,0 +1,360 @@
+[
+  {
+    "entry_id": "sensa_0011",
+    "arabic": {
+      "word": "تقى",
+      "root": "ت ق ي"
+    },
+    "translations": {
+      "fr": [
+        "piété",
+        "crainte révérencielle"
+      ],
+      "en": [
+        "piety",
+        "god-consciousness"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "المتقون في جنات ونعيم",
+        "translation": "Les pieux seront dans des jardins et des délices"
+      }
+    ],
+    "spiritual_commentary": "La piété implique un équilibre entre crainte et amour d’Allah, agissant comme une lumière intérieure qui guide les actes.",
+    "sensa_tags": [
+      "⟁_tazkiyah",
+      "🔺⟁_crainte_active",
+      "🌿⟁_pureté_intérieure"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0012",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35,
+        "text": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "نور على نور",
+        "translation": "Lumière sur lumière"
+      }
+    ],
+    "spiritual_commentary": "Le ‘nūr’ est la clarté divine qui pénètre le cœur, révélant la vérité cachée.",
+    "sensa_tags": [
+      "⟁_lumière",
+      "✨⟁_révélation",
+      "🕋⟁_source_divine"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0013",
+    "arabic": {
+      "word": "سلم",
+      "root": "س ل م"
+    },
+    "translations": {
+      "fr": [
+        "paix",
+        "soumission"
+      ],
+      "en": [
+        "peace",
+        "submission"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 208,
+        "text": "ادْخُلُوا فِي السِّلْمِ كَافَّةً"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الإسلام دين السلم",
+        "translation": "L’Islam est une religion de paix"
+      }
+    ],
+    "spiritual_commentary": "La paix découle de la soumission sincère à la Volonté divine, dans l’unité et l’équilibre.",
+    "sensa_tags": [
+      "⟁_salam",
+      "🕊️⟁_harmonie",
+      "🔺⟁_soumission_sacrée"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0014",
+    "arabic": {
+      "word": "حكمة",
+      "root": "ح ك م"
+    },
+    "translations": {
+      "fr": [
+        "sagesse"
+      ],
+      "en": [
+        "wisdom"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 269,
+        "text": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الحكمة ضالة المؤمن",
+        "translation": "La sagesse est la quête du croyant"
+      }
+    ],
+    "spiritual_commentary": "La ḥikma est un savoir lumineux, ancré dans la justice, la patience et l’inspiration divine.",
+    "sensa_tags": [
+      "⟁_hikma",
+      "🧠⟁_clarte_interne",
+      "⚖️⟁_justice_lucide"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0015",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر"
+    },
+    "translations": {
+      "fr": [
+        "patience",
+        "endurance"
+      ],
+      "en": [
+        "patience",
+        "endurance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 39,
+        "ayah": 10,
+        "text": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الصبر مفتاح الفرج",
+        "translation": "La patience est la clé de la délivrance"
+      }
+    ],
+    "spiritual_commentary": "La patience est une force tranquille, nourrie par la confiance en Allah et la vision du bien dans l’épreuve.",
+    "sensa_tags": [
+      "⟁_sabr",
+      "🪷⟁_constance",
+      "✨⟁_force_invisible"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0016",
+    "arabic": {
+      "word": "رزق",
+      "root": "ر ز ق"
+    },
+    "translations": {
+      "fr": [
+        "subsistance"
+      ],
+      "en": [
+        "provision"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 3,
+        "text": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الرزق بيد الله",
+        "translation": "La subsistance est entre les mains d’Allah"
+      }
+    ],
+    "spiritual_commentary": "Le rizq dépasse le matériel : c’est une énergie vitale, visible ou cachée, que seul Allah distribue.",
+    "sensa_tags": [
+      "⟁_rizq",
+      "💠⟁_flux_divin",
+      "🔑⟁_clés_du_ciel"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0017",
+    "arabic": {
+      "word": "حق",
+      "root": "ح ق ق"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "droit"
+      ],
+      "en": [
+        "truth",
+        "right"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 17,
+        "ayah": 81,
+        "text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الحق يعلو ولا يُعلى عليه",
+        "translation": "La vérité s’élève et ne peut être surpassée"
+      }
+    ],
+    "spiritual_commentary": "Le ḥaqq est le sceau de toute chose juste, la lumière du vrai contre le voile de l’illusion.",
+    "sensa_tags": [
+      "⟁_haqq",
+      "🕯️⟁_vérité_lumineuse",
+      "🧬⟁_structure_inaltérable"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0018",
+    "arabic": {
+      "word": "ذكر",
+      "root": "ذ ك ر"
+    },
+    "translations": {
+      "fr": [
+        "rappel",
+        "souvenir"
+      ],
+      "en": [
+        "remembrance",
+        "mention"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 13,
+        "ayah": 28,
+        "text": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اذكروا الله ذكراً كثيراً",
+        "translation": "Invoquez Allah fréquemment"
+      }
+    ],
+    "spiritual_commentary": "Le dhikr est un souffle qui relie le cœur à l’Origine, guérissant l’oubli par la Présence.",
+    "sensa_tags": [
+      "⟁_dhikr",
+      "🌬️⟁_souffle_divin",
+      "🕋⟁_ancrage_éternel"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0019",
+    "arabic": {
+      "word": "نوران",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumineux",
+        "éclairé"
+      ],
+      "en": [
+        "radiant",
+        "illuminated"
+      ]
+    },
+    "quranic_references": [],
+    "usage_examples": [
+      {
+        "sentence": "وجهه نوراني",
+        "translation": "Son visage était lumineux"
+      }
+    ],
+    "spiritual_commentary": "Nūrānī évoque la transparence du cœur imprégné de lumière divine, reflet de la guidance.",
+    "sensa_tags": [
+      "⟁_nurani",
+      "🌟⟁_reflet_divin",
+      "👁️⟁_vision_transcendante"
+    ],
+    "validated": true
+  },
+  {
+    "entry_id": "sensa_0020",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل"
+    },
+    "translations": {
+      "fr": [
+        "justice",
+        "équité"
+      ],
+      "en": [
+        "justice",
+        "equity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 4,
+        "ayah": 135,
+        "text": "كُونُوا قَوَّامِينَ بِالْقِسْطِ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "العدل أساس الملك",
+        "translation": "La justice est le fondement du règne"
+      }
+    ],
+    "spiritual_commentary": "La ʿadl est une balance divine : ni excès, ni négligence. Un équilibre sacré qui structure toute création.",
+    "sensa_tags": [
+      "⟁_adl",
+      "⚖️⟁_équilibre_sacré",
+      "🧠⟁_lucidité_morale"
+    ],
+    "validated": true
+  }
+]

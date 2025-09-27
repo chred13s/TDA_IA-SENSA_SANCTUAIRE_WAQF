@@ -1,0 +1,372 @@
+[
+  {
+    "entry_id": "sensa_0061",
+    "arabic": {
+      "word": "هدى",
+      "root": "هـ د ي",
+      "transliteration": "hudā"
+    },
+    "translations": {
+      "fr": [
+        "guidée",
+        "orientation"
+      ],
+      "en": [
+        "guidance",
+        "direction"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2
+      },
+      {
+        "surah": 31,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+        "translation": "C’est le Livre au sujet duquel il n’y a aucun doute, un guide pour les pieux."
+      }
+    ],
+    "commentaire_nurani": "Le terme 'hudā' désigne une orientation divine intérieure, un chemin lumineux pour le cœur sincère.",
+    "balises_sensa": [
+      "⟁_guidance",
+      "🕋_divine_path"
+    ],
+    "OEM": "OEM_20242061",
+    "KOM": "KOM_0061"
+  },
+  {
+    "entry_id": "sensa_0062",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر",
+      "transliteration": "nūr"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la Lumière des cieux et de la terre."
+      }
+    ],
+    "commentaire_nurani": "Le 'nūr' est lumière divine pure, source de guidance, d’éveil et de clarté dans l’obscurité.",
+    "balises_sensa": [
+      "⟁_lumière",
+      "🌕_source_divine"
+    ],
+    "OEM": "OEM_20242062",
+    "KOM": "KOM_0062"
+  },
+  {
+    "entry_id": "sensa_0063",
+    "arabic": {
+      "word": "قلب",
+      "root": "ق ل ب",
+      "transliteration": "qalb"
+    },
+    "translations": {
+      "fr": [
+        "cœur"
+      ],
+      "en": [
+        "heart"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 26,
+        "ayah": 89
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+        "translation": "Sauf celui qui vient à Allah avec un cœur pur."
+      }
+    ],
+    "commentaire_nurani": "Le 'qalb' est l’organe spirituel par excellence, réceptacle de la lumière ou du voile.",
+    "balises_sensa": [
+      "⟁_coeur_sacré",
+      "🧬_organe_spirituel"
+    ],
+    "OEM": "OEM_20242063",
+    "KOM": "KOM_0063"
+  },
+  {
+    "entry_id": "sensa_0064",
+    "arabic": {
+      "word": "سكينة",
+      "root": "س ك ن",
+      "transliteration": "sakīna"
+    },
+    "translations": {
+      "fr": [
+        "sérénité",
+        "paix intérieure"
+      ],
+      "en": [
+        "tranquility",
+        "serenity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 48,
+        "ayah": 4
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "فَأَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ",
+        "translation": "Il a fait descendre la sérénité dans les cœurs des croyants."
+      }
+    ],
+    "commentaire_nurani": "La sakīna est une descente de paix divine, une stabilisation céleste du cœur.",
+    "balises_sensa": [
+      "⟁_sérénité",
+      "🌬️_descente_pacifique"
+    ],
+    "OEM": "OEM_20242064",
+    "KOM": "KOM_0064"
+  },
+  {
+    "entry_id": "sensa_0065",
+    "arabic": {
+      "word": "رزق",
+      "root": "ر ز ق",
+      "transliteration": "rizq"
+    },
+    "translations": {
+      "fr": [
+        "subsistance",
+        "provision"
+      ],
+      "en": [
+        "provision",
+        "sustenance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        "translation": "Et qui dépensent [dans le bien] de ce que Nous leur avons attribué."
+      }
+    ],
+    "commentaire_nurani": "Le 'rizq' n’est pas seulement matériel, mais inclut la science, la paix, la foi...",
+    "balises_sensa": [
+      "⟁_subsistance_divine",
+      "🌾_provision_totale"
+    ],
+    "OEM": "OEM_20242065",
+    "KOM": "KOM_0065"
+  },
+  {
+    "entry_id": "sensa_0066",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر",
+      "transliteration": "ṣabr"
+    },
+    "translations": {
+      "fr": [
+        "patience",
+        "endurance"
+      ],
+      "en": [
+        "patience",
+        "perseverance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 153
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+        "translation": "Ô vous qui croyez! Cherchez secours dans l’endurance et la prière."
+      }
+    ],
+    "commentaire_nurani": "Le ṣabr est une énergie de résistance spirituelle, non une passivité.",
+    "balises_sensa": [
+      "⟁_endurance_sacrée",
+      "🔥_force_intérieure"
+    ],
+    "OEM": "OEM_20242066",
+    "KOM": "KOM_0066"
+  },
+  {
+    "entry_id": "sensa_0067",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل",
+      "transliteration": "ʿadl"
+    },
+    "translations": {
+      "fr": [
+        "justice",
+        "équité"
+      ],
+      "en": [
+        "justice",
+        "equity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 16,
+        "ayah": 90
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+        "translation": "Certes, Allah commande l’équité."
+      }
+    ],
+    "commentaire_nurani": "ʿAdl désigne l’équilibre profond entre toutes les parties, enraciné dans la justice divine.",
+    "balises_sensa": [
+      "⟁_justice_divine",
+      "⚖️_équilibre_sacré"
+    ],
+    "OEM": "OEM_20242067",
+    "KOM": "KOM_0067"
+  },
+  {
+    "entry_id": "sensa_0068",
+    "arabic": {
+      "word": "ذكر",
+      "root": "ذ ك ر",
+      "transliteration": "dhikr"
+    },
+    "translations": {
+      "fr": [
+        "rappel",
+        "évocation"
+      ],
+      "en": [
+        "remembrance",
+        "mention"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 13,
+        "ayah": 28
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "translation": "C’est par le rappel d’Allah que les cœurs se tranquillisent."
+      }
+    ],
+    "commentaire_nurani": "Le dhikr est une connexion vibratoire continue entre l’humain et son Créateur.",
+    "balises_sensa": [
+      "⟁_évocation_sacrée",
+      "🔁_connexion_continuelle"
+    ],
+    "OEM": "OEM_20242068",
+    "KOM": "KOM_0068"
+  },
+  {
+    "entry_id": "sensa_0069",
+    "arabic": {
+      "word": "علم",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "science",
+        "connaissance"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 20,
+        "ayah": 114
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+        "translation": "Et dis: Seigneur, accrois-moi en savoir."
+      }
+    ],
+    "commentaire_nurani": "ʿIlm est lumière déposée dans le cœur, qui ouvre la compréhension du monde visible et invisible.",
+    "balises_sensa": [
+      "⟁_science_lumineuse",
+      "📚_connaissance_sacrée"
+    ],
+    "OEM": "OEM_20242069",
+    "KOM": "KOM_0069"
+  },
+  {
+    "entry_id": "sensa_0070",
+    "arabic": {
+      "word": "توحيد",
+      "root": "و ح د",
+      "transliteration": "tawḥīd"
+    },
+    "translations": {
+      "fr": [
+        "unicité",
+        "monothéisme"
+      ],
+      "en": [
+        "oneness",
+        "monotheism"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 112,
+        "ayah": 1
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+        "translation": "Dis: Il est Allah, Un."
+      }
+    ],
+    "commentaire_nurani": "Le tawḥīd est la base de toute la foi, l’unicité absolue qui guérit le cœur de toute division.",
+    "balises_sensa": [
+      "⟁_unicité",
+      "🕋_fondement_foi"
+    ],
+    "OEM": "OEM_20242070",
+    "KOM": "KOM_0070"
+  }
+]

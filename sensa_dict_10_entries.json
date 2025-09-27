@@ -1,0 +1,416 @@
+[
+  {
+    "id": "ENTRY_000001",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000002",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر",
+      "transliteration": "nūr"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35,
+        "text": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "النور يهدي من يشاء",
+        "translation": "La lumière guide qui Il veut."
+      }
+    ],
+    "commentaire_spirituel": "Le 'nūr' est la lumière divine illuminant les cœurs et les mondes.",
+    "sensa": [
+      "⟁_nom_divin",
+      "✨_guidance",
+      "🔺_ayatul_nūr"
+    ],
+    "source": "Quran",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000003",
+    "arabic": {
+      "word": "حق",
+      "root": "ح ق ق",
+      "transliteration": "ḥaqq"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "droit"
+      ],
+      "en": [
+        "truth",
+        "right"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 17,
+        "ayah": 81,
+        "text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الحق أحق أن يتبع",
+        "translation": "La vérité est plus digne d’être suivie."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ḥaqq' est le sceau de la vérité divine contre toute fausseté.",
+    "sensa": [
+      "⟁_vérité_absolue",
+      "⚖️_justice",
+      "🔺_sceau"
+    ],
+    "source": "Quran & Lisan",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000004",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر",
+      "transliteration": "ṣabr"
+    },
+    "translations": {
+      "fr": [
+        "patience"
+      ],
+      "en": [
+        "patience"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 153,
+        "text": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "الصبر مفتاح الفرج",
+        "translation": "La patience est la clé de la délivrance."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ṣabr' est force intérieure, reliance à Dieu dans l’épreuve.",
+    "sensa": [
+      "⟁_clarté_intérieure",
+      "🧘_équilibre",
+      "🔺_soumission_active"
+    ],
+    "source": "Tafsir Ibn Kathir",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000005",
+    "arabic": {
+      "word": "رحمة",
+      "root": "ر ح م",
+      "transliteration": "raḥma"
+    },
+    "translations": {
+      "fr": [
+        "miséricorde"
+      ],
+      "en": [
+        "mercy"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 7,
+        "ayah": 156,
+        "text": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ارحم من في الأرض",
+        "translation": "Sois miséricordieux envers les habitants de la Terre."
+      }
+    ],
+    "commentaire_spirituel": "La 'raḥma' est l’essence de la relation entre le Créateur et la création.",
+    "sensa": [
+      "⟁_source_divine",
+      "🌊_flux_bienveillant",
+      "🔺_nom_rahman"
+    ],
+    "source": "Quran",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000006",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000007",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000008",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_000009",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  },
+  {
+    "id": "ENTRY_0000010",
+    "arabic": {
+      "word": "علم_6_7_8_9_10",
+      "root": "ع ل م",
+      "transliteration": "ʿilm"
+    },
+    "translations": {
+      "fr": [
+        "savoir",
+        "science"
+      ],
+      "en": [
+        "knowledge",
+        "science"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "طلب العلم فريضة",
+        "translation": "La quête du savoir est une obligation."
+      }
+    ],
+    "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+    "sensa": [
+      "⟁_racine_sacrée",
+      "⟁_science_lumière",
+      "🔺_à_intégrer",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch",
+      "🧬_test_batch"
+    ],
+    "source": "Lisan al-ʿArab",
+    "validated": true
+  }
+]

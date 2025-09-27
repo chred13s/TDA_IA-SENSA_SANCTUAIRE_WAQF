@@ -1,0 +1,363 @@
+[
+  {
+    "entry_id": "SENSA_071",
+    "arabic": {
+      "word": "حق",
+      "root": "ح ق ق"
+    },
+    "translations": {
+      "fr": [
+        "vérité",
+        "droit"
+      ],
+      "en": [
+        "truth",
+        "right"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 10,
+        "ayah": 32
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "جاء الحق وزهق الباطل",
+        "translation": "La vérité est venue et le faux a disparu."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_sacré",
+        "⟁_justice"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_072",
+    "arabic": {
+      "word": "عدل",
+      "root": "ع د ل"
+    },
+    "translations": {
+      "fr": [
+        "justice"
+      ],
+      "en": [
+        "justice"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 16,
+        "ayah": 90
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+        "translation": "En vérité, Allah ordonne la justice."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_valeur_éthique",
+        "⟁_comportement"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_073",
+    "arabic": {
+      "word": "نور",
+      "root": "ن و ر"
+    },
+    "translations": {
+      "fr": [
+        "lumière"
+      ],
+      "en": [
+        "light"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 24,
+        "ayah": 35
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "translation": "Allah est la Lumière des cieux et de la terre."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_lumière",
+        "⟁_nūr",
+        "🕋"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_074",
+    "arabic": {
+      "word": "سلم",
+      "root": "س ل م"
+    },
+    "translations": {
+      "fr": [
+        "paix"
+      ],
+      "en": [
+        "peace"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 208
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "ادْخُلُوا فِي السِّلْمِ كَافَّةً",
+        "translation": "Entrez dans la paix entièrement."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_paix",
+        "⟁_soumission",
+        "⟁_salām"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_075",
+    "arabic": {
+      "word": "رزق",
+      "root": "ر ز ق"
+    },
+    "translations": {
+      "fr": [
+        "subsistance"
+      ],
+      "en": [
+        "sustenance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 3
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        "translation": "Et de ce que Nous leur avons attribué, ils dépensent."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_provision",
+        "⟁_gratitude"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_076",
+    "arabic": {
+      "word": "أمانة",
+      "root": "أ م ن"
+    },
+    "translations": {
+      "fr": [
+        "confiance",
+        "fidélité"
+      ],
+      "en": [
+        "trust",
+        "fidelity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 33,
+        "ayah": 72
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّا عَرَضْنَا الْأَمَانَةَ",
+        "translation": "Nous avons proposé le dépôt de confiance."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_éthique",
+        "⟁_valeur_prophétique"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_077",
+    "arabic": {
+      "word": "شكر",
+      "root": "ش ك ر"
+    },
+    "translations": {
+      "fr": [
+        "remerciement",
+        "gratitude"
+      ],
+      "en": [
+        "thanks",
+        "gratitude"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 14,
+        "ayah": 7
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "translation": "Si vous êtes reconnaissants, Je vous accorderai davantage."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_gratitude",
+        "⟁_lien_divin"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_078",
+    "arabic": {
+      "word": "ذكر",
+      "root": "ذ ك ر"
+    },
+    "translations": {
+      "fr": [
+        "rappel",
+        "souvenir"
+      ],
+      "en": [
+        "remembrance"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 20,
+        "ayah": 14
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+        "translation": "Et accomplis la prière pour Mon souvenir."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_rappel",
+        "⟁_dhikr",
+        "⟁_souffle"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_079",
+    "arabic": {
+      "word": "طهارة",
+      "root": "ط ه ر"
+    },
+    "translations": {
+      "fr": [
+        "pureté"
+      ],
+      "en": [
+        "purity"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 9,
+        "ayah": 108
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "فِيهِ رِجَالٌ يُحِبُّونَ أَنْ يَتَطَهَّرُوا",
+        "translation": "Il y a des hommes qui aiment à se purifier."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_purification",
+        "⟁_tahāra"
+      ]
+    }
+  },
+  {
+    "entry_id": "SENSA_080",
+    "arabic": {
+      "word": "صبر",
+      "root": "ص ب ر"
+    },
+    "translations": {
+      "fr": [
+        "patience"
+      ],
+      "en": [
+        "patience"
+      ]
+    },
+    "quranic_references": [
+      {
+        "surah": 2,
+        "ayah": 153
+      }
+    ],
+    "usage_examples": [
+      {
+        "sentence": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "translation": "En vérité, Allah est avec les patients."
+      }
+    ],
+    "metadata": {
+      "source": "Quran",
+      "verified": true,
+      "sensa": [
+        "⟁_résilience",
+        "⟁_endurance",
+        "⟁_valeur_éthique"
+      ]
+    }
+  }
+]
