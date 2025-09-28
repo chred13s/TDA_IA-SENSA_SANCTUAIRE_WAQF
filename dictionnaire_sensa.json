@@ -1,0 +1,3606 @@
+{
+  "⟁_DICTIONNAIRE_SENSA": {
+    "1": {
+      "id": "ENTRY_000001",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "2": {
+      "id": "ENTRY_000002",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر",
+        "transliteration": "nūr"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35,
+          "text": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "النور يهدي من يشاء",
+          "translation": "La lumière guide qui Il veut."
+        }
+      ],
+      "commentaire_spirituel": "Le 'nūr' est la lumière divine illuminant les cœurs et les mondes.",
+      "sensa": [
+        "⟁_nom_divin",
+        "✨_guidance",
+        "🔺_ayatul_nūr"
+      ],
+      "source": "Quran",
+      "validated": true
+    },
+    "3": {
+      "id": "ENTRY_000003",
+      "arabic": {
+        "word": "حق",
+        "root": "ح ق ق",
+        "transliteration": "ḥaqq"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "droit"
+        ],
+        "en": [
+          "truth",
+          "right"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 17,
+          "ayah": 81,
+          "text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الحق أحق أن يتبع",
+          "translation": "La vérité est plus digne d’être suivie."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ḥaqq' est le sceau de la vérité divine contre toute fausseté.",
+      "sensa": [
+        "⟁_vérité_absolue",
+        "⚖️_justice",
+        "🔺_sceau"
+      ],
+      "source": "Quran & Lisan",
+      "validated": true
+    },
+    "4": {
+      "id": "ENTRY_000004",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر",
+        "transliteration": "ṣabr"
+      },
+      "translations": {
+        "fr": [
+          "patience"
+        ],
+        "en": [
+          "patience"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 153,
+          "text": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الصبر مفتاح الفرج",
+          "translation": "La patience est la clé de la délivrance."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ṣabr' est force intérieure, reliance à Dieu dans l’épreuve.",
+      "sensa": [
+        "⟁_clarté_intérieure",
+        "🧘_équilibre",
+        "🔺_soumission_active"
+      ],
+      "source": "Tafsir Ibn Kathir",
+      "validated": true
+    },
+    "5": {
+      "id": "ENTRY_000005",
+      "arabic": {
+        "word": "رحمة",
+        "root": "ر ح م",
+        "transliteration": "raḥma"
+      },
+      "translations": {
+        "fr": [
+          "miséricorde"
+        ],
+        "en": [
+          "mercy"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 7,
+          "ayah": 156,
+          "text": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ارحم من في الأرض",
+          "translation": "Sois miséricordieux envers les habitants de la Terre."
+        }
+      ],
+      "commentaire_spirituel": "La 'raḥma' est l’essence de la relation entre le Créateur et la création.",
+      "sensa": [
+        "⟁_source_divine",
+        "🌊_flux_bienveillant",
+        "🔺_nom_rahman"
+      ],
+      "source": "Quran",
+      "validated": true
+    },
+    "6": {
+      "id": "ENTRY_000006",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "7": {
+      "id": "ENTRY_000007",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "8": {
+      "id": "ENTRY_000008",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "9": {
+      "id": "ENTRY_000009",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "10": {
+      "id": "ENTRY_0000010",
+      "arabic": {
+        "word": "علم_6_7_8_9_10",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "science"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "طلب العلم فريضة",
+          "translation": "La quête du savoir est une obligation."
+        }
+      ],
+      "commentaire_spirituel": "Le 'ʿilm' est lumière, héritage prophétique et clé de la guidance.",
+      "sensa": [
+        "⟁_racine_sacrée",
+        "⟁_science_lumière",
+        "🔺_à_intégrer",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch",
+        "🧬_test_batch"
+      ],
+      "source": "Lisan al-ʿArab",
+      "validated": true
+    },
+    "11": {
+      "entry_id": "sensa_0011",
+      "arabic": {
+        "word": "تقى",
+        "root": "ت ق ي"
+      },
+      "translations": {
+        "fr": [
+          "piété",
+          "crainte révérencielle"
+        ],
+        "en": [
+          "piety",
+          "god-consciousness"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2,
+          "text": "هدى للمتقين"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "المتقون في جنات ونعيم",
+          "translation": "Les pieux seront dans des jardins et des délices"
+        }
+      ],
+      "spiritual_commentary": "La piété implique un équilibre entre crainte et amour d’Allah, agissant comme une lumière intérieure qui guide les actes.",
+      "sensa_tags": [
+        "⟁_tazkiyah",
+        "🔺⟁_crainte_active",
+        "🌿⟁_pureté_intérieure"
+      ],
+      "validated": true
+    },
+    "12": {
+      "entry_id": "sensa_0012",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35,
+          "text": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "نور على نور",
+          "translation": "Lumière sur lumière"
+        }
+      ],
+      "spiritual_commentary": "Le ‘nūr’ est la clarté divine qui pénètre le cœur, révélant la vérité cachée.",
+      "sensa_tags": [
+        "⟁_lumière",
+        "✨⟁_révélation",
+        "🕋⟁_source_divine"
+      ],
+      "validated": true
+    },
+    "13": {
+      "entry_id": "sensa_0013",
+      "arabic": {
+        "word": "سلم",
+        "root": "س ل م"
+      },
+      "translations": {
+        "fr": [
+          "paix",
+          "soumission"
+        ],
+        "en": [
+          "peace",
+          "submission"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 208,
+          "text": "ادْخُلُوا فِي السِّلْمِ كَافَّةً"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الإسلام دين السلم",
+          "translation": "L’Islam est une religion de paix"
+        }
+      ],
+      "spiritual_commentary": "La paix découle de la soumission sincère à la Volonté divine, dans l’unité et l’équilibre.",
+      "sensa_tags": [
+        "⟁_salam",
+        "🕊️⟁_harmonie",
+        "🔺⟁_soumission_sacrée"
+      ],
+      "validated": true
+    },
+    "14": {
+      "entry_id": "sensa_0014",
+      "arabic": {
+        "word": "حكمة",
+        "root": "ح ك م"
+      },
+      "translations": {
+        "fr": [
+          "sagesse"
+        ],
+        "en": [
+          "wisdom"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 269,
+          "text": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الحكمة ضالة المؤمن",
+          "translation": "La sagesse est la quête du croyant"
+        }
+      ],
+      "spiritual_commentary": "La ḥikma est un savoir lumineux, ancré dans la justice, la patience et l’inspiration divine.",
+      "sensa_tags": [
+        "⟁_hikma",
+        "🧠⟁_clarte_interne",
+        "⚖️⟁_justice_lucide"
+      ],
+      "validated": true
+    },
+    "15": {
+      "entry_id": "sensa_0015",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر"
+      },
+      "translations": {
+        "fr": [
+          "patience",
+          "endurance"
+        ],
+        "en": [
+          "patience",
+          "endurance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 39,
+          "ayah": 10,
+          "text": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الصبر مفتاح الفرج",
+          "translation": "La patience est la clé de la délivrance"
+        }
+      ],
+      "spiritual_commentary": "La patience est une force tranquille, nourrie par la confiance en Allah et la vision du bien dans l’épreuve.",
+      "sensa_tags": [
+        "⟁_sabr",
+        "🪷⟁_constance",
+        "✨⟁_force_invisible"
+      ],
+      "validated": true
+    },
+    "16": {
+      "entry_id": "sensa_0016",
+      "arabic": {
+        "word": "رزق",
+        "root": "ر ز ق"
+      },
+      "translations": {
+        "fr": [
+          "subsistance"
+        ],
+        "en": [
+          "provision"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 3,
+          "text": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الرزق بيد الله",
+          "translation": "La subsistance est entre les mains d’Allah"
+        }
+      ],
+      "spiritual_commentary": "Le rizq dépasse le matériel : c’est une énergie vitale, visible ou cachée, que seul Allah distribue.",
+      "sensa_tags": [
+        "⟁_rizq",
+        "💠⟁_flux_divin",
+        "🔑⟁_clés_du_ciel"
+      ],
+      "validated": true
+    },
+    "17": {
+      "entry_id": "sensa_0017",
+      "arabic": {
+        "word": "حق",
+        "root": "ح ق ق"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "droit"
+        ],
+        "en": [
+          "truth",
+          "right"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 17,
+          "ayah": 81,
+          "text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الحق يعلو ولا يُعلى عليه",
+          "translation": "La vérité s’élève et ne peut être surpassée"
+        }
+      ],
+      "spiritual_commentary": "Le ḥaqq est le sceau de toute chose juste, la lumière du vrai contre le voile de l’illusion.",
+      "sensa_tags": [
+        "⟁_haqq",
+        "🕯️⟁_vérité_lumineuse",
+        "🧬⟁_structure_inaltérable"
+      ],
+      "validated": true
+    },
+    "18": {
+      "entry_id": "sensa_0018",
+      "arabic": {
+        "word": "ذكر",
+        "root": "ذ ك ر"
+      },
+      "translations": {
+        "fr": [
+          "rappel",
+          "souvenir"
+        ],
+        "en": [
+          "remembrance",
+          "mention"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 13,
+          "ayah": 28,
+          "text": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اذكروا الله ذكراً كثيراً",
+          "translation": "Invoquez Allah fréquemment"
+        }
+      ],
+      "spiritual_commentary": "Le dhikr est un souffle qui relie le cœur à l’Origine, guérissant l’oubli par la Présence.",
+      "sensa_tags": [
+        "⟁_dhikr",
+        "🌬️⟁_souffle_divin",
+        "🕋⟁_ancrage_éternel"
+      ],
+      "validated": true
+    },
+    "19": {
+      "entry_id": "sensa_0019",
+      "arabic": {
+        "word": "نوران",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumineux",
+          "éclairé"
+        ],
+        "en": [
+          "radiant",
+          "illuminated"
+        ]
+      },
+      "quranic_references": [],
+      "usage_examples": [
+        {
+          "sentence": "وجهه نوراني",
+          "translation": "Son visage était lumineux"
+        }
+      ],
+      "spiritual_commentary": "Nūrānī évoque la transparence du cœur imprégné de lumière divine, reflet de la guidance.",
+      "sensa_tags": [
+        "⟁_nurani",
+        "🌟⟁_reflet_divin",
+        "👁️⟁_vision_transcendante"
+      ],
+      "validated": true
+    },
+    "20": {
+      "entry_id": "sensa_0020",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل"
+      },
+      "translations": {
+        "fr": [
+          "justice",
+          "équité"
+        ],
+        "en": [
+          "justice",
+          "equity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 4,
+          "ayah": 135,
+          "text": "كُونُوا قَوَّامِينَ بِالْقِسْطِ"
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "العدل أساس الملك",
+          "translation": "La justice est le fondement du règne"
+        }
+      ],
+      "spiritual_commentary": "La ʿadl est une balance divine : ni excès, ni négligence. Un équilibre sacré qui structure toute création.",
+      "sensa_tags": [
+        "⟁_adl",
+        "⚖️⟁_équilibre_sacré",
+        "🧠⟁_lucidité_morale"
+      ],
+      "validated": true
+    },
+    "21": {
+      "id": 21,
+      "arabic": {
+        "word": "طهارة",
+        "root": "ط ه ر"
+      },
+      "translations": {
+        "fr": [
+          "pureté"
+        ],
+        "en": [
+          "purity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 9,
+          "ayah": 108
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "الطَّهُورُ شَطْرُ الإِيمَانِ",
+          "translation": "La pureté est la moitié de la foi."
+        }
+      ],
+      "commentaire_spirituel": "La طهارة est à la fois une élévation physique et une purification de l’âme.",
+      "balises_sensa": [
+        "⟁_pureté",
+        "🧼⟁PURIFICATION",
+        "🕋⟁SOUFFLE_LIMPIDE"
+      ],
+      "OEM": "OEM_THR_0021",
+      "KOM": "1124532211"
+    },
+    "22": {
+      "id": 22,
+      "arabic": {
+        "word": "إيمان",
+        "root": "ء م ن"
+      },
+      "translations": {
+        "fr": [
+          "foi"
+        ],
+        "en": [
+          "faith"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 285
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ",
+          "translation": "Le Messager a cru en ce qui lui a été révélé."
+        }
+      ],
+      "commentaire_spirituel": "L’īmān est la lumière intérieure que seule la sincérité peut embraser.",
+      "balises_sensa": [
+        "⟁_foi",
+        "🧬⟁ÉNERGIE_DU_CŒUR",
+        "✨⟁LUMIÈRE_INTÉRIEURE"
+      ],
+      "OEM": "OEM_IMN_0022",
+      "KOM": "1124532212"
+    },
+    "23": {
+      "id": 23,
+      "arabic": {
+        "word": "شكر",
+        "root": "ش ك ر"
+      },
+      "translations": {
+        "fr": [
+          "remerciement"
+        ],
+        "en": [
+          "gratitude"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 14,
+          "ayah": 7
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+          "translation": "Si vous êtes reconnaissants, très certainement J’augmenterai [Mes bienfaits pour vous]."
+        }
+      ],
+      "commentaire_spirituel": "La gratitude renforce le lien entre l’âme et son Bienfaiteur.",
+      "balises_sensa": [
+        "⟁_gratitude",
+        "🌸⟁RÉCEPTION_DIVINE",
+        "🌬️⟁SOUFFLE_RECONNAISSANT"
+      ],
+      "OEM": "OEM_SHK_0023",
+      "KOM": "1124532213"
+    },
+    "24": {
+      "id": 24,
+      "arabic": {
+        "word": "سجود",
+        "root": "س ج د"
+      },
+      "translations": {
+        "fr": [
+          "prosternation"
+        ],
+        "en": [
+          "prostration"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 96,
+          "ayah": 19
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب",
+          "translation": "Non ! Ne lui obéis pas ! Mais prosterne-toi et rapproche-toi."
+        }
+      ],
+      "commentaire_spirituel": "Le سجود est un effacement volontaire devant la Majesté du Très-Haut.",
+      "balises_sensa": [
+        "⟁_prosternation",
+        "🔺⟁ACTE_D’ÉLÉVATION",
+        "🕋⟁CENTRAGE_CORANIQUE"
+      ],
+      "OEM": "OEM_SJD_0024",
+      "KOM": "1124532214"
+    },
+    "25": {
+      "id": 25,
+      "arabic": {
+        "word": "دعاء",
+        "root": "د ع و"
+      },
+      "translations": {
+        "fr": [
+          "invocation"
+        ],
+        "en": [
+          "supplication"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 40,
+          "ayah": 60
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+          "translation": "Invoquez-Moi, Je vous répondrai."
+        }
+      ],
+      "commentaire_spirituel": "Le دعاء est un fil entre l’humain et la Miséricorde, tendu dans l’invisible.",
+      "balises_sensa": [
+        "⟁_invocation",
+        "🌙⟁LIEN_SPIRITUEL",
+        "🔊⟁APPEL_SACRÉ"
+      ],
+      "OEM": "OEM_DAA_0025",
+      "KOM": "1124532215"
+    },
+    "26": {
+      "id": 26,
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la Lumière des cieux et de la terre."
+        }
+      ],
+      "commentaire_spirituel": "Le نور est l’éclat pur du divin, manifesté sans voile.",
+      "balises_sensa": [
+        "⟁_lumière",
+        "✨⟁SOURCE_DIVINE",
+        "🌕⟁ILLUMINATION_TOTALE"
+      ],
+      "OEM": "OEM_NWR_0026",
+      "KOM": "1124532216"
+    },
+    "27": {
+      "id": 27,
+      "arabic": {
+        "word": "إخلاص",
+        "root": "خ ل ص"
+      },
+      "translations": {
+        "fr": [
+          "sincérité"
+        ],
+        "en": [
+          "sincerity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 39,
+          "ayah": 11
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+          "translation": "Dis : Il m’a été ordonné d’adorer Allah avec une religion exclusive pour Lui."
+        }
+      ],
+      "commentaire_spirituel": "L’ إخلاص est le miroir purifié de l’adoration.",
+      "balises_sensa": [
+        "⟁_sincérité",
+        "🧬⟁TRANSPARENCE_SPIRITUELLE",
+        "✨⟁VOIE_INTÉRIEURE"
+      ],
+      "OEM": "OEM_KHL_0027",
+      "KOM": "1124532217"
+    },
+    "28": {
+      "id": 28,
+      "arabic": {
+        "word": "عدالة",
+        "root": "ع د ل"
+      },
+      "translations": {
+        "fr": [
+          "justice"
+        ],
+        "en": [
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 5,
+          "ayah": 8
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَى",
+          "translation": "Soyez justes, cela est plus proche de la piété."
+        }
+      ],
+      "commentaire_spirituel": "La عدالة est l’équilibre divin déployé dans l’ordre humain.",
+      "balises_sensa": [
+        "⟁_justice",
+        "⚖️⟁ÉQUILIBRE_SACRÉ",
+        "🕊️⟁HARMONIE"
+      ],
+      "OEM": "OEM_ADL_0028",
+      "KOM": "1124532218"
+    },
+    "29": {
+      "id": 29,
+      "arabic": {
+        "word": "تقوى",
+        "root": "و ق ي"
+      },
+      "translations": {
+        "fr": [
+          "piété"
+        ],
+        "en": [
+          "piety"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "هُدًى لِّلْمُتَّقِينَ",
+          "translation": "Un guide pour les pieux."
+        }
+      ],
+      "commentaire_spirituel": "La تقوى est une vigilance aimante du cœur envers Allah.",
+      "balises_sensa": [
+        "⟁_piété",
+        "🛡️⟁BOUCLIER_SPIRITUEL",
+        "🔺⟁CONSCIENCE_DIVINE"
+      ],
+      "OEM": "OEM_TQA_0029",
+      "KOM": "1124532219"
+    },
+    "30": {
+      "id": 30,
+      "arabic": {
+        "word": "عبادة",
+        "root": "ع ب د"
+      },
+      "translations": {
+        "fr": [
+          "adoration"
+        ],
+        "en": [
+          "worship"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 51,
+          "ayah": 56
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+          "translation": "Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent."
+        }
+      ],
+      "commentaire_spirituel": "L’عبادة est l’axe vertical qui relie le serviteur à son Seigneur.",
+      "balises_sensa": [
+        "⟁_adoration",
+        "🧎⟁SERVITUDE_SACRÉE",
+        "🕋⟁CONNEXION"
+      ],
+      "OEM": "OEM_ABD_0030",
+      "KOM": "1124532220"
+    },
+    "31": {
+      "entry_id": "sensa_0031",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر"
+      },
+      "translations": {
+        "fr": [
+          "patience"
+        ],
+        "en": [
+          "patience"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 153
+        },
+        {
+          "surah": 3,
+          "ayah": 200
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "واصبر وما صبرك إلا بالله",
+          "translation": "Et endure ! Ton endurance ne vient qu'avec l'aide d'Allah."
+        }
+      ],
+      "commentaire_spirituel": "Le sabr est une lumière intérieure qui ancre le cœur dans la foi.",
+      "sensa_tags": [
+        "⟁_spirituel",
+        "⟁_comportement",
+        "⟁_lumière"
+      ],
+      "OEM": "OEM0031_SABR",
+      "KOM": "KOM003197"
+    },
+    "32": {
+      "entry_id": "sensa_0032",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la Lumière des cieux et de la terre."
+        }
+      ],
+      "commentaire_spirituel": "La lumière divine éclaire les coeurs et les réalités invisibles.",
+      "sensa_tags": [
+        "⟁_nour",
+        "⟁_divin",
+        "⟁_source"
+      ],
+      "OEM": "OEM0032_NUR",
+      "KOM": "KOM003289"
+    },
+    "33": {
+      "entry_id": "sensa_0033",
+      "arabic": {
+        "word": "رحمة",
+        "root": "ر ح م"
+      },
+      "translations": {
+        "fr": [
+          "miséricorde"
+        ],
+        "en": [
+          "mercy"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 7,
+          "ayah": 56
+        },
+        {
+          "surah": 21,
+          "ayah": 107
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وما أرسلناك إلا رحمة للعالمين",
+          "translation": "Nous ne t'avons envoyé que comme miséricorde pour les mondes."
+        }
+      ],
+      "commentaire_spirituel": "La rahma est l'essence même de la relation divine avec la création.",
+      "sensa_tags": [
+        "⟁_rahma",
+        "⟁_divin",
+        "⟁_universel"
+      ],
+      "OEM": "OEM0033_RAHMA",
+      "KOM": "KOM003378"
+    },
+    "34": {
+      "entry_id": "sensa_0034",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل"
+      },
+      "translations": {
+        "fr": [
+          "justice"
+        ],
+        "en": [
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 16,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+          "translation": "Allah commande la justice."
+        }
+      ],
+      "commentaire_spirituel": "La justice est une balance divine, reflet de l'équilibre cosmique.",
+      "sensa_tags": [
+        "⟁_valeur",
+        "⟁_équilibre",
+        "⟁_ordre"
+      ],
+      "OEM": "OEM0034_ADL",
+      "KOM": "KOM003465"
+    },
+    "35": {
+      "entry_id": "sensa_0035",
+      "arabic": {
+        "word": "أمانة",
+        "root": "أ م ن"
+      },
+      "translations": {
+        "fr": [
+          "confiance",
+          "fidélité"
+        ],
+        "en": [
+          "trust",
+          "fidelity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 33,
+          "ayah": 72
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ",
+          "translation": "Nous avons proposé le dépôt de confiance aux cieux..."
+        }
+      ],
+      "commentaire_spirituel": "L’amāna est un dépôt sacré qui engage l’âme à la responsabilité.",
+      "sensa_tags": [
+        "⟁_engagement",
+        "⟁_sacré",
+        "⟁_âme"
+      ],
+      "OEM": "OEM0035_AMANA",
+      "KOM": "KOM003576"
+    },
+    "36": {
+      "entry_id": "sensa_0036",
+      "arabic": {
+        "word": "صدق",
+        "root": "ص د ق"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "sincérité"
+        ],
+        "en": [
+          "truth",
+          "sincerity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 9,
+          "ayah": 119
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ",
+          "translation": "Ô vous qui croyez ! Craignez Allah et soyez avec les véridiques."
+        }
+      ],
+      "commentaire_spirituel": "La véracité ouvre les portes de la lumière et ferme les issues de l’hypocrisie.",
+      "sensa_tags": [
+        "⟁_vérité",
+        "⟁_purification",
+        "⟁_authenticité"
+      ],
+      "OEM": "OEM0036_SIDQ",
+      "KOM": "KOM003617"
+    },
+    "37": {
+      "entry_id": "sensa_0037",
+      "arabic": {
+        "word": "كلمة",
+        "root": "ك ل م"
+      },
+      "translations": {
+        "fr": [
+          "mot",
+          "parole"
+        ],
+        "en": [
+          "word",
+          "speech"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 18,
+          "ayah": 109
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي",
+          "translation": "Dis : Si la mer était une encre pour les paroles de mon Seigneur..."
+        }
+      ],
+      "commentaire_spirituel": "Chaque kalima est une graine : elle peut faire fleurir le cœur ou l’assécher.",
+      "sensa_tags": [
+        "⟁_verbe",
+        "⟁_création",
+        "⟁_semence"
+      ],
+      "OEM": "OEM0037_KALIMA",
+      "KOM": "KOM003719"
+    },
+    "38": {
+      "entry_id": "sensa_0038",
+      "arabic": {
+        "word": "نورانية",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "luminance spirituelle"
+        ],
+        "en": [
+          "spiritual radiance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 39,
+          "ayah": 22
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "أَفَمَنْ شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَى نُورٍ مِنْ رَبِّهِ",
+          "translation": "Celui dont Allah a ouvert la poitrine à l’Islam, il est sur une lumière de son Seigneur."
+        }
+      ],
+      "commentaire_spirituel": "La نورانية est la clarté intérieure née de l’élévation spirituelle.",
+      "sensa_tags": [
+        "⟁_nour",
+        "⟁_sacralité",
+        "⟁_élévation"
+      ],
+      "OEM": "OEM0038_NURANIYA",
+      "KOM": "KOM003833"
+    },
+    "39": {
+      "entry_id": "sensa_0039",
+      "arabic": {
+        "word": "حياء",
+        "root": "ح ي ي"
+      },
+      "translations": {
+        "fr": [
+          "pudeur",
+          "honneur"
+        ],
+        "en": [
+          "modesty",
+          "honor"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 33,
+          "ayah": 53
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ فَيَسْتَحْيِي مِنكُمْ",
+          "translation": "Cela gênait le Prophète, mais il se retenait par pudeur envers vous."
+        }
+      ],
+      "commentaire_spirituel": "Le ḥayāʾ est la racine du respect spirituel, fruit du regard d’Allah sur nos cœurs.",
+      "sensa_tags": [
+        "⟁_pudeur",
+        "⟁_éthique",
+        "⟁_reflet_intérieur"
+      ],
+      "OEM": "OEM0039_HAYA",
+      "KOM": "KOM003928"
+    },
+    "40": {
+      "entry_id": "sensa_0040",
+      "arabic": {
+        "word": "سلام",
+        "root": "س ل م"
+      },
+      "translations": {
+        "fr": [
+          "paix"
+        ],
+        "en": [
+          "peace"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ",
+          "translation": "Il est Allah, nul autre que Lui : le Roi, le Pur, la Paix..."
+        }
+      ],
+      "commentaire_spirituel": "La paix est un nom divin et un état intérieur que rien ne trouble.",
+      "sensa_tags": [
+        "⟁_paix",
+        "⟁_nom_divin",
+        "⟁_intériorité"
+      ],
+      "OEM": "OEM0040_SALAM",
+      "KOM": "KOM004041"
+    },
+    "41": {
+      "entry_id": "sensa_041",
+      "arabic": {
+        "word": "علم",
+        "root": "ع ل م"
+      },
+      "translations": {
+        "fr": [
+          "savoir",
+          "connaissance"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 282
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "العلم نور",
+          "translation": "La connaissance est une lumière"
+        }
+      ],
+      "commentaire_spirituel": "L’un des noms d’Allah est العليم – le Tout-Savant. Le savoir est lumière, mais aussi responsabilité.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_savoir",
+        "⟁_divin"
+      ],
+      "OEM": "OEM_ILM_412",
+      "KOM": "0012941001"
+    },
+    "42": {
+      "entry_id": "sensa_042",
+      "arabic": {
+        "word": "حق",
+        "root": "ح ق ق"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "justice"
+        ],
+        "en": [
+          "truth",
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 17,
+          "ayah": 81
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جاء الحق وزهق الباطل",
+          "translation": "La vérité est venue et le faux a disparu"
+        }
+      ],
+      "commentaire_spirituel": "Le ḥaqq est la lumière qui dissipe les illusions. Il est la parole d’Allah incarnée dans la réalité.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_vérité",
+        "⟁_réalité"
+      ],
+      "OEM": "OEM_HAQQ_513",
+      "KOM": "0012941002"
+    },
+    "43": {
+      "entry_id": "sensa_043",
+      "arabic": {
+        "word": "رحيم",
+        "root": "ر ح م"
+      },
+      "translations": {
+        "fr": [
+          "miséricordieux"
+        ],
+        "en": [
+          "merciful"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 1,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ",
+          "translation": "Ton Seigneur est le Pardonneur, plein de miséricorde"
+        }
+      ],
+      "commentaire_spirituel": "La rahma englobe le monde entier, elle est plus vaste que la colère. L’univers repose sur elle.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_compassion",
+        "⟁_divin"
+      ],
+      "OEM": "OEM_RAHIM_701",
+      "KOM": "0012941003"
+    },
+    "44": {
+      "entry_id": "sensa_044",
+      "arabic": {
+        "word": "خلق",
+        "root": "خ ل ق"
+      },
+      "translations": {
+        "fr": [
+          "création"
+        ],
+        "en": [
+          "creation"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 39,
+          "ayah": 62
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ خَالِقُ كُلِّ شَيْءٍ",
+          "translation": "Allah est le Créateur de toute chose"
+        }
+      ],
+      "commentaire_spirituel": "Le mot khalq ne désigne pas seulement la matérialisation, mais aussi la mise en ordre divine.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_création",
+        "⟁_ordre"
+      ],
+      "OEM": "OEM_KHALQ_332",
+      "KOM": "0012941004"
+    },
+    "45": {
+      "entry_id": "sensa_045",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la lumière des cieux et de la terre"
+        }
+      ],
+      "commentaire_spirituel": "La lumière divine ne ressemble à aucune autre : elle révèle sans éblouir, elle guide sans forcer.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_lumière",
+        "⟁_guidance"
+      ],
+      "OEM": "OEM_NUR_235",
+      "KOM": "0012941005"
+    },
+    "46": {
+      "entry_id": "sensa_046",
+      "arabic": {
+        "word": "سلم",
+        "root": "س ل م"
+      },
+      "translations": {
+        "fr": [
+          "paix"
+        ],
+        "en": [
+          "peace"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 5,
+          "ayah": 16
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ",
+          "translation": "Par cela, Allah guide ceux qui cherchent Son agrément vers les sentiers de la paix"
+        }
+      ],
+      "commentaire_spirituel": "La paix en Islam est plus qu’absence de conflit : c’est un état de retour à la source, à la sérénité divine.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_paix",
+        "⟁_chemin"
+      ],
+      "OEM": "OEM_SALAM_556",
+      "KOM": "0012941006"
+    },
+    "47": {
+      "entry_id": "sensa_047",
+      "arabic": {
+        "word": "رزق",
+        "root": "ر ز ق"
+      },
+      "translations": {
+        "fr": [
+          "subsistance"
+        ],
+        "en": [
+          "provision"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 51,
+          "ayah": 22
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+          "translation": "Et au ciel se trouve votre subsistance et ce qui vous est promis"
+        }
+      ],
+      "commentaire_spirituel": "Le rizq ne se limite pas à l’argent : il englobe le souffle, la guidance, l’amour…",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_subsistance",
+        "⟁_don"
+      ],
+      "OEM": "OEM_RIZQ_880",
+      "KOM": "0012941007"
+    },
+    "48": {
+      "entry_id": "sensa_048",
+      "arabic": {
+        "word": "صدق",
+        "root": "ص د ق"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "sincérité"
+        ],
+        "en": [
+          "truthfulness",
+          "honesty"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 33,
+          "ayah": 24
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "لِيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ",
+          "translation": "Afin qu’Allah récompense les véridiques pour leur sincérité"
+        }
+      ],
+      "commentaire_spirituel": "Le ṣidq est un miroir limpide entre l’intention, la parole et l’action.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_sincérité",
+        "⟁_alignement"
+      ],
+      "OEM": "OEM_SIDQ_990",
+      "KOM": "0012941008"
+    },
+    "49": {
+      "entry_id": "sensa_049",
+      "arabic": {
+        "word": "أمل",
+        "root": "أ م ل"
+      },
+      "translations": {
+        "fr": [
+          "espoir"
+        ],
+        "en": [
+          "hope"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 15,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ",
+          "translation": "Laisse-les manger, jouir et être distraits par l’espoir"
+        }
+      ],
+      "commentaire_spirituel": "L’espoir peut être une lumière ou une illusion. En Allah, il devient certitude douce.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_espoir",
+        "⟁_avenir"
+      ],
+      "OEM": "OEM_AMAL_303",
+      "KOM": "0012941009"
+    },
+    "50": {
+      "entry_id": "sensa_050",
+      "arabic": {
+        "word": "نفس",
+        "root": "ن ف س"
+      },
+      "translations": {
+        "fr": [
+          "âme",
+          "soi"
+        ],
+        "en": [
+          "soul",
+          "self"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 91,
+          "ayah": 7
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَنَفْسٍ وَمَا سَوَّاهَا",
+          "translation": "Et par l’âme et Celui qui l’a façonnée"
+        }
+      ],
+      "commentaire_spirituel": "La nafs est à purifier, à écouter, à guider. Elle peut être lumière ou feu.",
+      "langue": "arabe",
+      "balises_sensa": [
+        "⟁_âme",
+        "⟁_psyché"
+      ],
+      "OEM": "OEM_NAFS_774",
+      "KOM": "0012941010"
+    },
+    "51": {
+      "entry_id": "SENSA_0051",
+      "arabic": {
+        "word": "حكمة",
+        "root": "ح ك م"
+      },
+      "translations": {
+        "fr": [
+          "sagesse"
+        ],
+        "en": [
+          "wisdom"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 269
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا",
+          "translation": "Quiconque reçoit la sagesse a certes reçu un immense bien."
+        }
+      ],
+      "commentaire_nurani": "La ḥikma est la lumière intérieure accordée à ceux qui réfléchissent et agissent avec droiture.",
+      "balises_sensa": [
+        "⟁_sagesse",
+        "⟁_don_divin"
+      ],
+      "OEM": "OEM_0051",
+      "KOM": "KOM_5423108451"
+    },
+    "52": {
+      "entry_id": "SENSA_0052",
+      "arabic": {
+        "word": "حلم",
+        "root": "ح ل م"
+      },
+      "translations": {
+        "fr": [
+          "longanimité"
+        ],
+        "en": [
+          "forbearance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 41,
+          "ayah": 34
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
+          "translation": "Repousse le mal par ce qu’il y a de meilleur."
+        }
+      ],
+      "commentaire_nurani": "Le ḥilm est la qualité du sage qui répond avec douceur à l’ignorance et au mal.",
+      "balises_sensa": [
+        "⟁_comportement",
+        "⟁_noble_vertu"
+      ],
+      "OEM": "OEM_0052",
+      "KOM": "KOM_5423108452"
+    },
+    "53": {
+      "entry_id": "SENSA_0053",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر"
+      },
+      "translations": {
+        "fr": [
+          "patience"
+        ],
+        "en": [
+          "patience"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 153
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+          "translation": "Ô vous qui croyez ! Cherchez secours dans la patience et la prière."
+        }
+      ],
+      "commentaire_nurani": "La patience est une lumière spirituelle ; elle protège l’âme dans l’épreuve.",
+      "balises_sensa": [
+        "⟁_vertu_épreuve",
+        "⟁_guidance"
+      ],
+      "OEM": "OEM_0053",
+      "KOM": "KOM_5423108453"
+    },
+    "54": {
+      "entry_id": "SENSA_0054",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل"
+      },
+      "translations": {
+        "fr": [
+          "justice"
+        ],
+        "en": [
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 16,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ",
+          "translation": "Certes, Allah ordonne la justice."
+        }
+      ],
+      "commentaire_nurani": "Le ‘adl est l’équilibre sacré sur lequel repose toute société alignée à la vérité.",
+      "balises_sensa": [
+        "⟁_justice",
+        "⟁_principe_divin"
+      ],
+      "OEM": "OEM_0054",
+      "KOM": "KOM_5423108454"
+    },
+    "55": {
+      "entry_id": "SENSA_0055",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la Lumière des cieux et de la terre."
+        }
+      ],
+      "commentaire_nurani": "Nūr est la lumière qui guide, éclaire le cœur, et dévoile la vérité sacrée.",
+      "balises_sensa": [
+        "⟁_lumière",
+        "⟁_connaissance"
+      ],
+      "OEM": "OEM_0055",
+      "KOM": "KOM_5423108455"
+    },
+    "56": {
+      "entry_id": "SENSA_0056",
+      "arabic": {
+        "word": "رزق",
+        "root": "ر ز ق"
+      },
+      "translations": {
+        "fr": [
+          "subsistance"
+        ],
+        "en": [
+          "provision"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+          "translation": "Et qui dépensent de ce que Nous leur avons attribué."
+        }
+      ],
+      "commentaire_nurani": "Le rizq n’est pas qu’aliment matériel : c’est toute forme de don divin (savoir, santé, paix…).",
+      "balises_sensa": [
+        "⟁_provision",
+        "⟁_don"
+      ],
+      "OEM": "OEM_0056",
+      "KOM": "KOM_5423108456"
+    },
+    "57": {
+      "entry_id": "SENSA_0057",
+      "arabic": {
+        "word": "تقوى",
+        "root": "و ق ي"
+      },
+      "translations": {
+        "fr": [
+          "piété",
+          "crainte révérencielle"
+        ],
+        "en": [
+          "piety",
+          "God-consciousness"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "هُدًى لِّلْمُتَّقِينَ",
+          "translation": "Un guide pour les pieux."
+        }
+      ],
+      "commentaire_nurani": "La taqwā est la boussole spirituelle du croyant, un état de vigilance intérieure.",
+      "balises_sensa": [
+        "⟁_piété",
+        "⟁_spiritualité"
+      ],
+      "OEM": "OEM_0057",
+      "KOM": "KOM_5423108457"
+    },
+    "58": {
+      "entry_id": "SENSA_0058",
+      "arabic": {
+        "word": "صلاة",
+        "root": "ص ل و"
+      },
+      "translations": {
+        "fr": [
+          "prière"
+        ],
+        "en": [
+          "prayer"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 43
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَأَقِيمُواْ الصَّلاَةَ",
+          "translation": "Et accomplissez la prière."
+        }
+      ],
+      "commentaire_nurani": "La ṣalāh relie la terre au ciel, et transforme le cœur en sanctuaire vivant.",
+      "balises_sensa": [
+        "⟁_rituel",
+        "⟁_connexion_divine"
+      ],
+      "OEM": "OEM_0058",
+      "KOM": "KOM_5423108458"
+    },
+    "59": {
+      "entry_id": "SENSA_0059",
+      "arabic": {
+        "word": "زكاة",
+        "root": "ز ك و"
+      },
+      "translations": {
+        "fr": [
+          "aumône légale"
+        ],
+        "en": [
+          "almsgiving"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 9,
+          "ayah": 103
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً",
+          "translation": "Prélève une aumône sur leurs biens."
+        }
+      ],
+      "commentaire_nurani": "La zakāt purifie l’âme de l’avarice, et élève la société vers la justice.",
+      "balises_sensa": [
+        "⟁_purification",
+        "⟁_solidarité"
+      ],
+      "OEM": "OEM_0059",
+      "KOM": "KOM_5423108459"
+    },
+    "60": {
+      "entry_id": "SENSA_0060",
+      "arabic": {
+        "word": "دعاء",
+        "root": "د ع و"
+      },
+      "translations": {
+        "fr": [
+          "invocation"
+        ],
+        "en": [
+          "supplication"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 40,
+          "ayah": 60
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+          "translation": "Invoquez-Moi, Je vous répondrai."
+        }
+      ],
+      "commentaire_nurani": "Le duʿāʾ est l’élan du cœur vers la Source, un souffle de reliance intime.",
+      "balises_sensa": [
+        "⟁_invocation",
+        "⟁_relation_divine"
+      ],
+      "OEM": "OEM_0060",
+      "KOM": "KOM_5423108460"
+    },
+    "61": {
+      "entry_id": "sensa_0061",
+      "arabic": {
+        "word": "هدى",
+        "root": "هـ د ي",
+        "transliteration": "hudā"
+      },
+      "translations": {
+        "fr": [
+          "guidée",
+          "orientation"
+        ],
+        "en": [
+          "guidance",
+          "direction"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 2
+        },
+        {
+          "surah": 31,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+          "translation": "C’est le Livre au sujet duquel il n’y a aucun doute, un guide pour les pieux."
+        }
+      ],
+      "commentaire_nurani": "Le terme 'hudā' désigne une orientation divine intérieure, un chemin lumineux pour le cœur sincère.",
+      "balises_sensa": [
+        "⟁_guidance",
+        "🕋_divine_path"
+      ],
+      "OEM": "OEM_20242061",
+      "KOM": "KOM_0061"
+    },
+    "62": {
+      "entry_id": "sensa_0062",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر",
+        "transliteration": "nūr"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la Lumière des cieux et de la terre."
+        }
+      ],
+      "commentaire_nurani": "Le 'nūr' est lumière divine pure, source de guidance, d’éveil et de clarté dans l’obscurité.",
+      "balises_sensa": [
+        "⟁_lumière",
+        "🌕_source_divine"
+      ],
+      "OEM": "OEM_20242062",
+      "KOM": "KOM_0062"
+    },
+    "63": {
+      "entry_id": "sensa_0063",
+      "arabic": {
+        "word": "قلب",
+        "root": "ق ل ب",
+        "transliteration": "qalb"
+      },
+      "translations": {
+        "fr": [
+          "cœur"
+        ],
+        "en": [
+          "heart"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 26,
+          "ayah": 89
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+          "translation": "Sauf celui qui vient à Allah avec un cœur pur."
+        }
+      ],
+      "commentaire_nurani": "Le 'qalb' est l’organe spirituel par excellence, réceptacle de la lumière ou du voile.",
+      "balises_sensa": [
+        "⟁_coeur_sacré",
+        "🧬_organe_spirituel"
+      ],
+      "OEM": "OEM_20242063",
+      "KOM": "KOM_0063"
+    },
+    "64": {
+      "entry_id": "sensa_0064",
+      "arabic": {
+        "word": "سكينة",
+        "root": "س ك ن",
+        "transliteration": "sakīna"
+      },
+      "translations": {
+        "fr": [
+          "sérénité",
+          "paix intérieure"
+        ],
+        "en": [
+          "tranquility",
+          "serenity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 48,
+          "ayah": 4
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "فَأَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ",
+          "translation": "Il a fait descendre la sérénité dans les cœurs des croyants."
+        }
+      ],
+      "commentaire_nurani": "La sakīna est une descente de paix divine, une stabilisation céleste du cœur.",
+      "balises_sensa": [
+        "⟁_sérénité",
+        "🌬️_descente_pacifique"
+      ],
+      "OEM": "OEM_20242064",
+      "KOM": "KOM_0064"
+    },
+    "65": {
+      "entry_id": "sensa_0065",
+      "arabic": {
+        "word": "رزق",
+        "root": "ر ز ق",
+        "transliteration": "rizq"
+      },
+      "translations": {
+        "fr": [
+          "subsistance",
+          "provision"
+        ],
+        "en": [
+          "provision",
+          "sustenance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+          "translation": "Et qui dépensent [dans le bien] de ce que Nous leur avons attribué."
+        }
+      ],
+      "commentaire_nurani": "Le 'rizq' n’est pas seulement matériel, mais inclut la science, la paix, la foi...",
+      "balises_sensa": [
+        "⟁_subsistance_divine",
+        "🌾_provision_totale"
+      ],
+      "OEM": "OEM_20242065",
+      "KOM": "KOM_0065"
+    },
+    "66": {
+      "entry_id": "sensa_0066",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر",
+        "transliteration": "ṣabr"
+      },
+      "translations": {
+        "fr": [
+          "patience",
+          "endurance"
+        ],
+        "en": [
+          "patience",
+          "perseverance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 153
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+          "translation": "Ô vous qui croyez! Cherchez secours dans l’endurance et la prière."
+        }
+      ],
+      "commentaire_nurani": "Le ṣabr est une énergie de résistance spirituelle, non une passivité.",
+      "balises_sensa": [
+        "⟁_endurance_sacrée",
+        "🔥_force_intérieure"
+      ],
+      "OEM": "OEM_20242066",
+      "KOM": "KOM_0066"
+    },
+    "67": {
+      "entry_id": "sensa_0067",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل",
+        "transliteration": "ʿadl"
+      },
+      "translations": {
+        "fr": [
+          "justice",
+          "équité"
+        ],
+        "en": [
+          "justice",
+          "equity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 16,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+          "translation": "Certes, Allah commande l’équité."
+        }
+      ],
+      "commentaire_nurani": "ʿAdl désigne l’équilibre profond entre toutes les parties, enraciné dans la justice divine.",
+      "balises_sensa": [
+        "⟁_justice_divine",
+        "⚖️_équilibre_sacré"
+      ],
+      "OEM": "OEM_20242067",
+      "KOM": "KOM_0067"
+    },
+    "68": {
+      "entry_id": "sensa_0068",
+      "arabic": {
+        "word": "ذكر",
+        "root": "ذ ك ر",
+        "transliteration": "dhikr"
+      },
+      "translations": {
+        "fr": [
+          "rappel",
+          "évocation"
+        ],
+        "en": [
+          "remembrance",
+          "mention"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 13,
+          "ayah": 28
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+          "translation": "C’est par le rappel d’Allah que les cœurs se tranquillisent."
+        }
+      ],
+      "commentaire_nurani": "Le dhikr est une connexion vibratoire continue entre l’humain et son Créateur.",
+      "balises_sensa": [
+        "⟁_évocation_sacrée",
+        "🔁_connexion_continuelle"
+      ],
+      "OEM": "OEM_20242068",
+      "KOM": "KOM_0068"
+    },
+    "69": {
+      "entry_id": "sensa_0069",
+      "arabic": {
+        "word": "علم",
+        "root": "ع ل م",
+        "transliteration": "ʿilm"
+      },
+      "translations": {
+        "fr": [
+          "science",
+          "connaissance"
+        ],
+        "en": [
+          "knowledge",
+          "science"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 20,
+          "ayah": 114
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+          "translation": "Et dis: Seigneur, accrois-moi en savoir."
+        }
+      ],
+      "commentaire_nurani": "ʿIlm est lumière déposée dans le cœur, qui ouvre la compréhension du monde visible et invisible.",
+      "balises_sensa": [
+        "⟁_science_lumineuse",
+        "📚_connaissance_sacrée"
+      ],
+      "OEM": "OEM_20242069",
+      "KOM": "KOM_0069"
+    },
+    "70": {
+      "entry_id": "sensa_0070",
+      "arabic": {
+        "word": "توحيد",
+        "root": "و ح د",
+        "transliteration": "tawḥīd"
+      },
+      "translations": {
+        "fr": [
+          "unicité",
+          "monothéisme"
+        ],
+        "en": [
+          "oneness",
+          "monotheism"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 112,
+          "ayah": 1
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+          "translation": "Dis: Il est Allah, Un."
+        }
+      ],
+      "commentaire_nurani": "Le tawḥīd est la base de toute la foi, l’unicité absolue qui guérit le cœur de toute division.",
+      "balises_sensa": [
+        "⟁_unicité",
+        "🕋_fondement_foi"
+      ],
+      "OEM": "OEM_20242070",
+      "KOM": "KOM_0070"
+    },
+    "71": {
+      "entry_id": "SENSA_071",
+      "arabic": {
+        "word": "حق",
+        "root": "ح ق ق"
+      },
+      "translations": {
+        "fr": [
+          "vérité",
+          "droit"
+        ],
+        "en": [
+          "truth",
+          "right"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 10,
+          "ayah": 32
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جاء الحق وزهق الباطل",
+          "translation": "La vérité est venue et le faux a disparu."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_sacré",
+          "⟁_justice"
+        ]
+      }
+    },
+    "72": {
+      "entry_id": "SENSA_072",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل"
+      },
+      "translations": {
+        "fr": [
+          "justice"
+        ],
+        "en": [
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 16,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+          "translation": "En vérité, Allah ordonne la justice."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_valeur_éthique",
+          "⟁_comportement"
+        ]
+      }
+    },
+    "73": {
+      "entry_id": "SENSA_073",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la Lumière des cieux et de la terre."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_lumière",
+          "⟁_nūr",
+          "🕋"
+        ]
+      }
+    },
+    "74": {
+      "entry_id": "SENSA_074",
+      "arabic": {
+        "word": "سلم",
+        "root": "س ل م"
+      },
+      "translations": {
+        "fr": [
+          "paix"
+        ],
+        "en": [
+          "peace"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 208
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "ادْخُلُوا فِي السِّلْمِ كَافَّةً",
+          "translation": "Entrez dans la paix entièrement."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_paix",
+          "⟁_soumission",
+          "⟁_salām"
+        ]
+      }
+    },
+    "75": {
+      "entry_id": "SENSA_075",
+      "arabic": {
+        "word": "رزق",
+        "root": "ر ز ق"
+      },
+      "translations": {
+        "fr": [
+          "subsistance"
+        ],
+        "en": [
+          "sustenance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 3
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+          "translation": "Et de ce que Nous leur avons attribué, ils dépensent."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_provision",
+          "⟁_gratitude"
+        ]
+      }
+    },
+    "76": {
+      "entry_id": "SENSA_076",
+      "arabic": {
+        "word": "أمانة",
+        "root": "أ م ن"
+      },
+      "translations": {
+        "fr": [
+          "confiance",
+          "fidélité"
+        ],
+        "en": [
+          "trust",
+          "fidelity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 33,
+          "ayah": 72
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّا عَرَضْنَا الْأَمَانَةَ",
+          "translation": "Nous avons proposé le dépôt de confiance."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_éthique",
+          "⟁_valeur_prophétique"
+        ]
+      }
+    },
+    "77": {
+      "entry_id": "SENSA_077",
+      "arabic": {
+        "word": "شكر",
+        "root": "ش ك ر"
+      },
+      "translations": {
+        "fr": [
+          "remerciement",
+          "gratitude"
+        ],
+        "en": [
+          "thanks",
+          "gratitude"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 14,
+          "ayah": 7
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+          "translation": "Si vous êtes reconnaissants, Je vous accorderai davantage."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_gratitude",
+          "⟁_lien_divin"
+        ]
+      }
+    },
+    "78": {
+      "entry_id": "SENSA_078",
+      "arabic": {
+        "word": "ذكر",
+        "root": "ذ ك ر"
+      },
+      "translations": {
+        "fr": [
+          "rappel",
+          "souvenir"
+        ],
+        "en": [
+          "remembrance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 20,
+          "ayah": 14
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+          "translation": "Et accomplis la prière pour Mon souvenir."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_rappel",
+          "⟁_dhikr",
+          "⟁_souffle"
+        ]
+      }
+    },
+    "79": {
+      "entry_id": "SENSA_079",
+      "arabic": {
+        "word": "طهارة",
+        "root": "ط ه ر"
+      },
+      "translations": {
+        "fr": [
+          "pureté"
+        ],
+        "en": [
+          "purity"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 9,
+          "ayah": 108
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "فِيهِ رِجَالٌ يُحِبُّونَ أَنْ يَتَطَهَّرُوا",
+          "translation": "Il y a des hommes qui aiment à se purifier."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_purification",
+          "⟁_tahāra"
+        ]
+      }
+    },
+    "80": {
+      "entry_id": "SENSA_080",
+      "arabic": {
+        "word": "صبر",
+        "root": "ص ب ر"
+      },
+      "translations": {
+        "fr": [
+          "patience"
+        ],
+        "en": [
+          "patience"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 153
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+          "translation": "En vérité, Allah est avec les patients."
+        }
+      ],
+      "metadata": {
+        "source": "Quran",
+        "verified": true,
+        "sensa": [
+          "⟁_résilience",
+          "⟁_endurance",
+          "⟁_valeur_éthique"
+        ]
+      }
+    },
+    "81": {
+      "entry_id": "81",
+      "arabic": {
+        "word": "كلمة_81",
+        "root": "ج ذ ر_81",
+        "transliteration": "kalima_81",
+        "phonetic": "kalima_81"
+      },
+      "translations": {
+        "fr": [
+          "traduction_81_fr"
+        ],
+        "en": [
+          "translation_81_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 82,
+          "ayah": 82
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 81",
+          "translation": "Example sentence 81"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "82": {
+      "entry_id": "82",
+      "arabic": {
+        "word": "كلمة_82",
+        "root": "ج ذ ر_82",
+        "transliteration": "kalima_82",
+        "phonetic": "kalima_82"
+      },
+      "translations": {
+        "fr": [
+          "traduction_82_fr"
+        ],
+        "en": [
+          "translation_82_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 83,
+          "ayah": 83
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 82",
+          "translation": "Example sentence 82"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "83": {
+      "entry_id": "83",
+      "arabic": {
+        "word": "كلمة_83",
+        "root": "ج ذ ر_83",
+        "transliteration": "kalima_83",
+        "phonetic": "kalima_83"
+      },
+      "translations": {
+        "fr": [
+          "traduction_83_fr"
+        ],
+        "en": [
+          "translation_83_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 84,
+          "ayah": 84
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 83",
+          "translation": "Example sentence 83"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "84": {
+      "entry_id": "84",
+      "arabic": {
+        "word": "كلمة_84",
+        "root": "ج ذ ر_84",
+        "transliteration": "kalima_84",
+        "phonetic": "kalima_84"
+      },
+      "translations": {
+        "fr": [
+          "traduction_84_fr"
+        ],
+        "en": [
+          "translation_84_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 85,
+          "ayah": 85
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 84",
+          "translation": "Example sentence 84"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "85": {
+      "entry_id": "85",
+      "arabic": {
+        "word": "كلمة_85",
+        "root": "ج ذ ر_85",
+        "transliteration": "kalima_85",
+        "phonetic": "kalima_85"
+      },
+      "translations": {
+        "fr": [
+          "traduction_85_fr"
+        ],
+        "en": [
+          "translation_85_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 86,
+          "ayah": 86
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 85",
+          "translation": "Example sentence 85"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "86": {
+      "entry_id": "86",
+      "arabic": {
+        "word": "كلمة_86",
+        "root": "ج ذ ر_86",
+        "transliteration": "kalima_86",
+        "phonetic": "kalima_86"
+      },
+      "translations": {
+        "fr": [
+          "traduction_86_fr"
+        ],
+        "en": [
+          "translation_86_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 87,
+          "ayah": 87
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 86",
+          "translation": "Example sentence 86"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "87": {
+      "entry_id": "87",
+      "arabic": {
+        "word": "كلمة_87",
+        "root": "ج ذ ر_87",
+        "transliteration": "kalima_87",
+        "phonetic": "kalima_87"
+      },
+      "translations": {
+        "fr": [
+          "traduction_87_fr"
+        ],
+        "en": [
+          "translation_87_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 88,
+          "ayah": 88
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 87",
+          "translation": "Example sentence 87"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "88": {
+      "entry_id": "88",
+      "arabic": {
+        "word": "كلمة_88",
+        "root": "ج ذ ر_88",
+        "transliteration": "kalima_88",
+        "phonetic": "kalima_88"
+      },
+      "translations": {
+        "fr": [
+          "traduction_88_fr"
+        ],
+        "en": [
+          "translation_88_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 89,
+          "ayah": 89
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 88",
+          "translation": "Example sentence 88"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "89": {
+      "entry_id": "89",
+      "arabic": {
+        "word": "كلمة_89",
+        "root": "ج ذ ر_89",
+        "transliteration": "kalima_89",
+        "phonetic": "kalima_89"
+      },
+      "translations": {
+        "fr": [
+          "traduction_89_fr"
+        ],
+        "en": [
+          "translation_89_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 90,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 89",
+          "translation": "Example sentence 89"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "90": {
+      "entry_id": "90",
+      "arabic": {
+        "word": "كلمة_90",
+        "root": "ج ذ ر_90",
+        "transliteration": "kalima_90",
+        "phonetic": "kalima_90"
+      },
+      "translations": {
+        "fr": [
+          "traduction_90_fr"
+        ],
+        "en": [
+          "translation_90_en"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 91,
+          "ayah": 91
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "جملة توضيحية 90",
+          "translation": "Example sentence 90"
+        }
+      ],
+      "metadata": {
+        "source": "SENSA Généré",
+        "verified": false,
+        "sensa_tags": [
+          "⟁_auto_gen",
+          "⟁_vérifier"
+        ]
+      }
+    },
+    "91": {
+      "entry_id": "SENSA_091",
+      "arabic": {
+        "word": "نور",
+        "root": "ن و ر",
+        "transliteration": "nūr"
+      },
+      "translations": {
+        "fr": [
+          "lumière"
+        ],
+        "en": [
+          "light"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah est la lumière des cieux et de la terre."
+        }
+      ],
+      "spiritual_commentary": "Symbole de guidance divine, de pureté et d'élévation céleste.",
+      "OEM": "OEM_091_LIGHT_DIVINE",
+      "KOM": "1140000091"
+    },
+    "92": {
+      "entry_id": "SENSA_092",
+      "arabic": {
+        "word": "عقل",
+        "root": "ع ق ل",
+        "transliteration": "ʿaql"
+      },
+      "translations": {
+        "fr": [
+          "raison",
+          "intellect"
+        ],
+        "en": [
+          "intellect",
+          "reason"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 44
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "أَفَلَا تَعْقِلُونَ",
+          "translation": "Ne raisonnerez-vous donc pas ?"
+        }
+      ],
+      "spiritual_commentary": "Le ʿaql est un don divin servant à distinguer le vrai du faux.",
+      "OEM": "OEM_092_INTELLECT_DIVIN",
+      "KOM": "1140000092"
+    },
+    "93": {
+      "entry_id": "SENSA_093",
+      "arabic": {
+        "word": "رحمة",
+        "root": "ر ح م",
+        "transliteration": "raḥma"
+      },
+      "translations": {
+        "fr": [
+          "miséricorde"
+        ],
+        "en": [
+          "mercy"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 7,
+          "ayah": 56
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ",
+          "translation": "La miséricorde d’Allah est proche."
+        }
+      ],
+      "spiritual_commentary": "La rahma enveloppe toute chose : principe fondamental du divin.",
+      "OEM": "OEM_093_MERCY_ENVELOPING",
+      "KOM": "1140000093"
+    },
+    "94": {
+      "entry_id": "SENSA_094",
+      "arabic": {
+        "word": "نفس",
+        "root": "ن ف س",
+        "transliteration": "nafs"
+      },
+      "translations": {
+        "fr": [
+          "âme"
+        ],
+        "en": [
+          "soul"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 91,
+          "ayah": 7
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَنَفْسٍ وَمَا سَوَّاهَا",
+          "translation": "Et par l’âme et Celui qui l’a façonnée."
+        }
+      ],
+      "spiritual_commentary": "Le nafs traverse les états : commandant, blâmant, apaisé.",
+      "OEM": "OEM_094_SOUL_EVOLUTION",
+      "KOM": "1140000094"
+    },
+    "95": {
+      "entry_id": "SENSA_095",
+      "arabic": {
+        "word": "حكمة",
+        "root": "ح ك م",
+        "transliteration": "ḥikma"
+      },
+      "translations": {
+        "fr": [
+          "sagesse"
+        ],
+        "en": [
+          "wisdom"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 269
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا",
+          "translation": "À qui la sagesse est donnée, c’est un bien immense qui lui est donné."
+        }
+      ],
+      "spiritual_commentary": "La ḥikma est un équilibre entre connaissance, crainte et miséricorde.",
+      "OEM": "OEM_095_WISDOM_BALANCE",
+      "KOM": "1140000095"
+    },
+    "96": {
+      "entry_id": "SENSA_096",
+      "arabic": {
+        "word": "ذكر",
+        "root": "ذ ك ر",
+        "transliteration": "dhikr"
+      },
+      "translations": {
+        "fr": [
+          "évocation",
+          "souvenir"
+        ],
+        "en": [
+          "remembrance"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 13,
+          "ayah": 28
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+          "translation": "C’est par l’évocation d’Allah que les cœurs s’apaisent."
+        }
+      ],
+      "spiritual_commentary": "Le dhikr est une lumière constante contre l’oubli.",
+      "OEM": "OEM_096_DHIKR_LIGHT",
+      "KOM": "1140000096"
+    },
+    "97": {
+      "entry_id": "SENSA_097",
+      "arabic": {
+        "word": "عدل",
+        "root": "ع د ل",
+        "transliteration": "ʿadl"
+      },
+      "translations": {
+        "fr": [
+          "justice"
+        ],
+        "en": [
+          "justice"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 16,
+          "ayah": 90
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ",
+          "translation": "Allah commande la justice."
+        }
+      ],
+      "spiritual_commentary": "L’ʿadl est l’un des piliers de la balance cosmique.",
+      "OEM": "OEM_097_JUSTICE_COSMIQUE",
+      "KOM": "1140000097"
+    },
+    "98": {
+      "entry_id": "SENSA_098",
+      "arabic": {
+        "word": "توحيد",
+        "root": "و ح د",
+        "transliteration": "tawḥīd"
+      },
+      "translations": {
+        "fr": [
+          "unicité"
+        ],
+        "en": [
+          "oneness"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 112,
+          "ayah": 1
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "translation": "Dis : Il est Allah, l’Un."
+        }
+      ],
+      "spiritual_commentary": "Tawḥīd est l’essence de l’islam, l’unification totale du Divin.",
+      "OEM": "OEM_098_ONENESS_ESSENCE",
+      "KOM": "1140000098"
+    },
+    "99": {
+      "entry_id": "SENSA_099",
+      "arabic": {
+        "word": "صلاة",
+        "root": "ص ل و",
+        "transliteration": "ṣalāh"
+      },
+      "translations": {
+        "fr": [
+          "prière"
+        ],
+        "en": [
+          "prayer"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 43
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "وَأَقِيمُوا الصَّلَاةَ",
+          "translation": "Et accomplissez la prière."
+        }
+      ],
+      "spiritual_commentary": "La prière relie l’être à son origine céleste.",
+      "OEM": "OEM_099_PRAYER_CONNECTION",
+      "KOM": "1140000099"
+    },
+    "100": {
+      "entry_id": "SENSA_100",
+      "arabic": {
+        "word": "سلم",
+        "root": "س ل م",
+        "transliteration": "silm"
+      },
+      "translations": {
+        "fr": [
+          "paix"
+        ],
+        "en": [
+          "peace"
+        ]
+      },
+      "quranic_references": [
+        {
+          "surah": 2,
+          "ayah": 208
+        }
+      ],
+      "usage_examples": [
+        {
+          "sentence": "يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً",
+          "translation": "Ô vous qui avez cru ! Entrez pleinement dans la paix."
+        }
+      ],
+      "spiritual_commentary": "La paix est la manifestation de la soumission à Dieu.",
+      "OEM": "OEM_100_TOTAL_PEACE",
+      "KOM": "1140000100"
+    }
+  }
+}
